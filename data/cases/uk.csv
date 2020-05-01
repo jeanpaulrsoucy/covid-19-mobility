@@ -1,0 +1,163 @@
+"state","country","date","cases"
+"London","United Kingdom",2020-02-11,1
+"London","United Kingdom",2020-02-13,2
+"London","United Kingdom",2020-02-16,3
+"London","United Kingdom",2020-02-19,4
+"London","United Kingdom",2020-02-23,6
+"London","United Kingdom",2020-02-25,8
+"London","United Kingdom",2020-02-27,9
+"London","United Kingdom",2020-02-28,14
+"London","United Kingdom",2020-02-29,15
+"London","United Kingdom",2020-03-01,23
+"London","United Kingdom",2020-03-02,35
+"London","United Kingdom",2020-03-03,41
+"London","United Kingdom",2020-03-04,59
+"London","United Kingdom",2020-03-05,73
+"London","United Kingdom",2020-03-06,96
+"London","United Kingdom",2020-03-07,110
+"London","United Kingdom",2020-03-08,132
+"London","United Kingdom",2020-03-09,186
+"London","United Kingdom",2020-03-10,278
+"London","United Kingdom",2020-03-11,462
+"London","United Kingdom",2020-03-12,629
+"London","United Kingdom",2020-03-13,766
+"London","United Kingdom",2020-03-14,914
+"London","United Kingdom",2020-03-15,1079
+"London","United Kingdom",2020-03-16,1313
+"London","United Kingdom",2020-03-17,1622
+"London","United Kingdom",2020-03-18,1978
+"London","United Kingdom",2020-03-19,2309
+"London","United Kingdom",2020-03-20,2735
+"London","United Kingdom",2020-03-21,3085
+"London","United Kingdom",2020-03-22,3520
+"London","United Kingdom",2020-03-23,4206
+"London","United Kingdom",2020-03-24,4840
+"London","United Kingdom",2020-03-25,5590
+"London","United Kingdom",2020-03-26,6352
+"London","United Kingdom",2020-03-27,7170
+"London","United Kingdom",2020-03-28,7747
+"London","United Kingdom",2020-03-29,8339
+"London","United Kingdom",2020-03-30,9185
+"London","United Kingdom",2020-03-31,10097
+"London","United Kingdom",2020-04-01,11057
+"London","United Kingdom",2020-04-02,12080
+"London","United Kingdom",2020-04-03,13015
+"London","United Kingdom",2020-04-04,13729
+"London","United Kingdom",2020-04-05,14332
+"London","United Kingdom",2020-04-06,15167
+"London","United Kingdom",2020-04-07,16076
+"London","United Kingdom",2020-04-08,16910
+"London","United Kingdom",2020-04-09,17678
+"London","United Kingdom",2020-04-10,18251
+"London","United Kingdom",2020-04-11,18743
+"London","United Kingdom",2020-04-12,19154
+"London","United Kingdom",2020-04-13,19717
+"London","United Kingdom",2020-04-14,20257
+"London","United Kingdom",2020-04-15,20811
+"London","United Kingdom",2020-04-16,21260
+"London","United Kingdom",2020-04-17,21595
+"London","United Kingdom",2020-04-18,21654
+"London","United Kingdom",2020-04-19,21654
+"North West","United Kingdom",2020-02-28,1
+"North West","United Kingdom",2020-03-01,9
+"North West","United Kingdom",2020-03-02,15
+"North West","United Kingdom",2020-03-03,22
+"North West","United Kingdom",2020-03-04,24
+"North West","United Kingdom",2020-03-05,34
+"North West","United Kingdom",2020-03-06,36
+"North West","United Kingdom",2020-03-07,42
+"North West","United Kingdom",2020-03-08,47
+"North West","United Kingdom",2020-03-09,54
+"North West","United Kingdom",2020-03-10,69
+"North West","United Kingdom",2020-03-11,86
+"North West","United Kingdom",2020-03-12,125
+"North West","United Kingdom",2020-03-13,166
+"North West","United Kingdom",2020-03-14,191
+"North West","United Kingdom",2020-03-15,214
+"North West","United Kingdom",2020-03-16,270
+"North West","United Kingdom",2020-03-17,325
+"North West","United Kingdom",2020-03-18,408
+"North West","United Kingdom",2020-03-19,505
+"North West","United Kingdom",2020-03-20,587
+"North West","United Kingdom",2020-03-21,701
+"North West","United Kingdom",2020-03-22,818
+"North West","United Kingdom",2020-03-23,994
+"North West","United Kingdom",2020-03-24,1248
+"North West","United Kingdom",2020-03-25,1504
+"North West","United Kingdom",2020-03-26,1860
+"North West","United Kingdom",2020-03-27,2193
+"North West","United Kingdom",2020-03-28,2513
+"North West","United Kingdom",2020-03-29,2872
+"North West","United Kingdom",2020-03-30,3378
+"North West","United Kingdom",2020-03-31,3933
+"North West","United Kingdom",2020-04-01,4549
+"North West","United Kingdom",2020-04-02,5229
+"North West","United Kingdom",2020-04-03,5909
+"North West","United Kingdom",2020-04-04,6512
+"North West","United Kingdom",2020-04-05,7126
+"North West","United Kingdom",2020-04-06,7945
+"North West","United Kingdom",2020-04-07,8652
+"North West","United Kingdom",2020-04-08,9399
+"North West","United Kingdom",2020-04-09,10095
+"North West","United Kingdom",2020-04-10,10642
+"North West","United Kingdom",2020-04-11,11180
+"North West","United Kingdom",2020-04-12,11600
+"North West","United Kingdom",2020-04-13,12128
+"North West","United Kingdom",2020-04-14,12676
+"North West","United Kingdom",2020-04-15,13255
+"North West","United Kingdom",2020-04-16,13817
+"North West","United Kingdom",2020-04-17,14264
+"North West","United Kingdom",2020-04-18,14324
+"North West","United Kingdom",2020-04-19,14328
+"West Midlands","United Kingdom",2020-02-12,1
+"West Midlands","United Kingdom",2020-02-23,2
+"West Midlands","United Kingdom",2020-03-01,4
+"West Midlands","United Kingdom",2020-03-02,8
+"West Midlands","United Kingdom",2020-03-03,9
+"West Midlands","United Kingdom",2020-03-04,12
+"West Midlands","United Kingdom",2020-03-05,18
+"West Midlands","United Kingdom",2020-03-06,20
+"West Midlands","United Kingdom",2020-03-07,25
+"West Midlands","United Kingdom",2020-03-08,29
+"West Midlands","United Kingdom",2020-03-09,37
+"West Midlands","United Kingdom",2020-03-10,56
+"West Midlands","United Kingdom",2020-03-11,96
+"West Midlands","United Kingdom",2020-03-12,148
+"West Midlands","United Kingdom",2020-03-13,188
+"West Midlands","United Kingdom",2020-03-14,219
+"West Midlands","United Kingdom",2020-03-15,263
+"West Midlands","United Kingdom",2020-03-16,319
+"West Midlands","United Kingdom",2020-03-17,388
+"West Midlands","United Kingdom",2020-03-18,486
+"West Midlands","United Kingdom",2020-03-19,609
+"West Midlands","United Kingdom",2020-03-20,760
+"West Midlands","United Kingdom",2020-03-21,885
+"West Midlands","United Kingdom",2020-03-22,997
+"West Midlands","United Kingdom",2020-03-23,1236
+"West Midlands","United Kingdom",2020-03-24,1486
+"West Midlands","United Kingdom",2020-03-25,1724
+"West Midlands","United Kingdom",2020-03-26,2039
+"West Midlands","United Kingdom",2020-03-27,2315
+"West Midlands","United Kingdom",2020-03-28,2641
+"West Midlands","United Kingdom",2020-03-29,3005
+"West Midlands","United Kingdom",2020-03-30,3435
+"West Midlands","United Kingdom",2020-03-31,3847
+"West Midlands","United Kingdom",2020-04-01,4258
+"West Midlands","United Kingdom",2020-04-02,4705
+"West Midlands","United Kingdom",2020-04-03,5076
+"West Midlands","United Kingdom",2020-04-04,5409
+"West Midlands","United Kingdom",2020-04-05,5677
+"West Midlands","United Kingdom",2020-04-06,6017
+"West Midlands","United Kingdom",2020-04-07,6410
+"West Midlands","United Kingdom",2020-04-08,6792
+"West Midlands","United Kingdom",2020-04-09,7154
+"West Midlands","United Kingdom",2020-04-10,7530
+"West Midlands","United Kingdom",2020-04-11,7777
+"West Midlands","United Kingdom",2020-04-12,8023
+"West Midlands","United Kingdom",2020-04-13,8327
+"West Midlands","United Kingdom",2020-04-14,8671
+"West Midlands","United Kingdom",2020-04-15,9039
+"West Midlands","United Kingdom",2020-04-16,9402
+"West Midlands","United Kingdom",2020-04-17,9689
+"West Midlands","United Kingdom",2020-04-18,9772
+"West Midlands","United Kingdom",2020-04-19,9787

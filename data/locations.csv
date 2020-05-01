@@ -1,0 +1,42 @@
+city,state,country,continent
+Amsterdam,,Netherlands,Europe
+Barcelona,Cataluña,Spain,Europe
+Berlin,Berlin,Germany,Europe
+Birmingham,West Midlands,United Kingdom,Europe
+Boston,Massachusetts,United States,North America
+Brussels,Brussels,Belgium,Europe
+Chicago,Illinois,United States,North America
+Copenhagen,,Denmark,Europe
+Hamburg,Hamburg,Germany,Europe
+Hong Kong,Hong Kong,China,Asia
+Istanbul,,Turkey,Europe
+Lisbon,Lisbon and Tagus Valley,Portugal,Europe
+London,London,United Kingdom,Europe
+Los Angeles,Los Angeles,United States,North America
+Lyon,,France,Europe
+Madrid,Madrid,Spain,Europe
+Manchester,North West,United Kingdom,Europe
+Melbourne,Victoria,Australia,Australia
+Mexico City,,Mexico,North America
+Milan,Lombardia,Italy,Europe
+Monaco,,Monaco,Europe
+Montréal,Quebec,Canada,North America
+Moscow,Moscow,Russia,Europe
+New York City,New York,United States,North America
+Paris,,France,Europe
+Philadelphia,Pennsylvania,United States,North America
+Rhine-Ruhr,North Rhine-Westphalia,Germany,Europe
+Rome,Lazio,Italy,Europe
+San Francisco,San Francisco,United States,North America
+São Paulo,São Paulo,Brazil,South America
+Seattle,Washington,United States,North America
+Seoul,Seoul,South Korea,Asia
+Singapore,,Singapore,Asia
+St. Petersburg,St. Petersburg,Russia,Europe
+Stockholm,Stockholm,Sweden,Europe
+Sydney,New South Wales,Australia,Australia
+Tokyo,Tokyo,Japan,Asia
+Toronto,Ontario,Canada,North America
+Vancouver,British Columbia,Canada,North America
+Vienna,Vienna,Austria,Europe
+Washington DC,District of Columbia,United States,North America
