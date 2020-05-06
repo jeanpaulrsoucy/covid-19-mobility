@@ -1,6 +1,6 @@
 # Estimating effects of physical distancing on the COVID-19 pandemic using an urban mobility index
 
-Code and data to support "Estimating effects of physical distancing on the COVID-19 pandemic using an urban mobility index" by Soucy et al. The preprint is currently available on [medRxiv](https://www.medrxiv.org/content/10.1101/2020.04.05.20054288v1).
+Code and data to support "Estimating effects of physical distancing on the COVID-19 pandemic using an urban mobility index" by Soucy et al. The preprint is currently available on [medRxiv](https://www.medrxiv.org/content/10.1101/2020.04.05.20054288v2).
 
 # Scripts
 
