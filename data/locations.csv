@@ -1,42 +1,42 @@
-city,state,country,continent
-Amsterdam,,Netherlands,Europe
-Barcelona,Cataluña,Spain,Europe
-Berlin,Berlin,Germany,Europe
-Birmingham,West Midlands,United Kingdom,Europe
-Boston,Massachusetts,United States,North America
-Brussels,Brussels,Belgium,Europe
-Chicago,Illinois,United States,North America
-Copenhagen,,Denmark,Europe
-Hamburg,Hamburg,Germany,Europe
-Hong Kong,Hong Kong,China,Asia
-Istanbul,,Turkey,Europe
-Lisbon,Lisbon and Tagus Valley,Portugal,Europe
-London,London,United Kingdom,Europe
-Los Angeles,Los Angeles,United States,North America
-Lyon,,France,Europe
-Madrid,Madrid,Spain,Europe
-Manchester,North West,United Kingdom,Europe
-Melbourne,Victoria,Australia,Australia
-Mexico City,,Mexico,North America
-Milan,Lombardia,Italy,Europe
-Monaco,,Monaco,Europe
-Montréal,Quebec,Canada,North America
-Moscow,Moscow,Russia,Europe
-New York City,New York,United States,North America
-Paris,,France,Europe
-Philadelphia,Pennsylvania,United States,North America
-Rhine-Ruhr,North Rhine-Westphalia,Germany,Europe
-Rome,Lazio,Italy,Europe
-San Francisco,San Francisco,United States,North America
-São Paulo,São Paulo,Brazil,South America
-Seattle,Washington,United States,North America
-Seoul,Seoul,South Korea,Asia
-Singapore,,Singapore,Asia
-St. Petersburg,St. Petersburg,Russia,Europe
-Stockholm,Stockholm,Sweden,Europe
-Sydney,New South Wales,Australia,Australia
-Tokyo,Tokyo,Japan,Asia
-Toronto,Ontario,Canada,North America
-Vancouver,British Columbia,Canada,North America
-Vienna,Vienna,Austria,Europe
-Washington DC,District of Columbia,United States,North America
+city,state,country,continent,google_key,spatial_resolution,google_key_country
+Amsterdam,North Holland,Netherlands,Europe,NL_NH_0363,city,NL
+Barcelona,Cataluña,Spain,Europe,ES_CT_08019,city,ES
+Berlin,Berlin,Germany,Europe,DE_BE,city,DE
+Birmingham,West Midlands,United Kingdom,Europe,GB_ENG_E08000025,city,GB
+Boston,Massachusetts,United States,North America,US_MA_25025,county,US
+Brussels,Brussels,Belgium,Europe,BE_BRU,city,BE
+Chicago,Illinois,United States,North America,US_IL_17031,county,US
+Copenhagen,,Denmark,Europe,DK,country,DK
+Hamburg,Hamburg,Germany,Europe,DE_HH_02000,city,DE
+Hong Kong,Hong Kong,Hong Kong,Asia,HK,city,HK
+Istanbul,,Turkey,Europe,TR,country,TR
+Lisbon,Lisbon Metropolitan Area,Portugal,Europe,PT_17,metro area,PT
+London,London,United Kingdom,Europe,GB_ENG_LON,city,GB
+Los Angeles,Los Angeles,United States,North America,US_CA_06037,county,US
+Lyon,Auvergne-Rhône-Alpes,France,Europe,FR_ARA_69,department,FR
+Madrid,Madrid,Spain,Europe,ES_MD_MAD,city,ES
+Manchester,North West,United Kingdom,Europe,GB_ENG_E08000003,city,GB
+Melbourne,Victoria,Australia,Australia,AU_VIC,state,AU
+Mexico City,Mexico City,Mexico,North America,MX,country,MX
+Milan,Lombardia,Italy,Europe,IT_25_MI,city,IT
+Monaco,,Monaco,Europe,MC,city,MC
+Montréal,Quebec,Canada,North America,CA_QC_2406,city,CA
+Moscow,Moscow,Russia,Europe,RU_MOW,city,RU
+New York City,New York,United States,North America,US_NY_NYC,city,US
+Paris,Île-de-France,France,Europe,FR_IDF_75,city,FR
+Philadelphia,Pennsylvania,United States,North America,US_PA_42101,county,US
+Rhine-Ruhr,North Rhine-Westphalia,Germany,Europe,DE_NW_05111;DE_NW_05112;DE_NW_05113;DE_NW_05116;DE_NW_05119;DE_NW_05124;DE_NW_05162;DE_NW_05314;DE_NW_05315;DE_NW_05316;DE_NW_05513;DE_NW_05911;DE_NW_05913,metro area,DE
+Rome,Lazio,Italy,Europe,IT_62_RM,city,IT
+San Francisco,San Francisco,United States,North America,US_CA_SFO,city,US
+São Paulo,São Paulo,Brazil,South America,BR_SP_355030,city,BR
+Seattle,Washington,United States,North America,US_WA_53033,county,US
+Seoul,Seoul,South Korea,Asia,KR_11,city,KR
+Singapore,,Singapore,Asia,SG,city,SG
+St. Petersburg,St. Petersburg,Russia,Europe,RU_SPE,city,RU
+Stockholm,Stockholm,Sweden,Europe,SE_110,county,SE
+Sydney,New South Wales,Australia,Australia,AU_NSW,state,AU
+Tokyo,Tokyo,Japan,Asia,JP_13,city,JP
+Toronto,Ontario,Canada,North America,CA_ON_3595,city,CA
+Vancouver,British Columbia,Canada,North America,CA_BC_5930,region,CA
+Vienna,Vienna,Austria,Europe,AT_9_900,city,AT
+Washington DC,District of Columbia,United States,North America,US_DC_11001,city,US

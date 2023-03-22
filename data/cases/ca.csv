@@ -1,256 +1,245 @@
-"state","country","date","cases"
-"British Columbia","Canada",2020-01-31,1
-"British Columbia","Canada",2020-02-01,1
-"British Columbia","Canada",2020-02-02,1
-"British Columbia","Canada",2020-02-03,1
-"British Columbia","Canada",2020-02-04,1
-"British Columbia","Canada",2020-02-05,1
-"British Columbia","Canada",2020-02-06,1
-"British Columbia","Canada",2020-02-07,1
-"British Columbia","Canada",2020-02-08,4
-"British Columbia","Canada",2020-02-09,4
-"British Columbia","Canada",2020-02-10,4
-"British Columbia","Canada",2020-02-11,4
-"British Columbia","Canada",2020-02-12,4
-"British Columbia","Canada",2020-02-13,4
-"British Columbia","Canada",2020-02-14,4
-"British Columbia","Canada",2020-02-15,4
-"British Columbia","Canada",2020-02-16,5
-"British Columbia","Canada",2020-02-17,5
-"British Columbia","Canada",2020-02-18,5
-"British Columbia","Canada",2020-02-19,5
-"British Columbia","Canada",2020-02-20,5
-"British Columbia","Canada",2020-02-21,6
-"British Columbia","Canada",2020-02-22,6
-"British Columbia","Canada",2020-02-23,6
-"British Columbia","Canada",2020-02-24,6
-"British Columbia","Canada",2020-02-25,7
-"British Columbia","Canada",2020-02-26,7
-"British Columbia","Canada",2020-02-27,7
-"British Columbia","Canada",2020-02-28,7
-"British Columbia","Canada",2020-02-29,7
-"British Columbia","Canada",2020-03-01,8
-"British Columbia","Canada",2020-03-02,8
-"British Columbia","Canada",2020-03-03,12
-"British Columbia","Canada",2020-03-04,12
-"British Columbia","Canada",2020-03-05,21
-"British Columbia","Canada",2020-03-06,21
-"British Columbia","Canada",2020-03-07,27
-"British Columbia","Canada",2020-03-08,27
-"British Columbia","Canada",2020-03-09,32
-"British Columbia","Canada",2020-03-10,32
-"British Columbia","Canada",2020-03-11,39
-"British Columbia","Canada",2020-03-12,46
-"British Columbia","Canada",2020-03-13,53
-"British Columbia","Canada",2020-03-14,64
-"British Columbia","Canada",2020-03-15,73
-"British Columbia","Canada",2020-03-16,73
-"British Columbia","Canada",2020-03-17,103
-"British Columbia","Canada",2020-03-18,186
-"British Columbia","Canada",2020-03-19,271
-"British Columbia","Canada",2020-03-20,271
-"British Columbia","Canada",2020-03-21,424
-"British Columbia","Canada",2020-03-22,424
-"British Columbia","Canada",2020-03-23,472
-"British Columbia","Canada",2020-03-24,617
-"British Columbia","Canada",2020-03-25,659
-"British Columbia","Canada",2020-03-26,725
-"British Columbia","Canada",2020-03-27,725
-"British Columbia","Canada",2020-03-28,884
-"British Columbia","Canada",2020-03-29,884
-"British Columbia","Canada",2020-03-30,960
-"British Columbia","Canada",2020-03-31,970
-"British Columbia","Canada",2020-04-01,1066
-"British Columbia","Canada",2020-04-02,1121
-"British Columbia","Canada",2020-04-03,1174
-"British Columbia","Canada",2020-04-04,1203
-"British Columbia","Canada",2020-04-05,1203
-"British Columbia","Canada",2020-04-06,1266
-"British Columbia","Canada",2020-04-07,1291
-"British Columbia","Canada",2020-04-08,1336
-"British Columbia","Canada",2020-04-09,1370
-"British Columbia","Canada",2020-04-10,1410
-"British Columbia","Canada",2020-04-11,1445
-"British Columbia","Canada",2020-04-12,1445
-"British Columbia","Canada",2020-04-13,1490
-"British Columbia","Canada",2020-04-14,1517
-"British Columbia","Canada",2020-04-15,1561
-"British Columbia","Canada",2020-04-16,1561
-"British Columbia","Canada",2020-04-17,1575
-"British Columbia","Canada",2020-04-18,1618
-"British Columbia","Canada",2020-04-19,1618
-"British Columbia","Canada",2020-04-20,1699
-"British Columbia","Canada",2020-04-21,1724
-"British Columbia","Canada",2020-04-22,1795
-"British Columbia","Canada",2020-04-23,1824
-"British Columbia","Canada",2020-04-24,1824
-"Ontario","Canada",2020-01-31,3
-"Ontario","Canada",2020-02-01,3
-"Ontario","Canada",2020-02-02,3
-"Ontario","Canada",2020-02-03,3
-"Ontario","Canada",2020-02-04,3
-"Ontario","Canada",2020-02-05,3
-"Ontario","Canada",2020-02-06,3
-"Ontario","Canada",2020-02-07,3
-"Ontario","Canada",2020-02-08,3
-"Ontario","Canada",2020-02-09,3
-"Ontario","Canada",2020-02-10,3
-"Ontario","Canada",2020-02-11,3
-"Ontario","Canada",2020-02-12,3
-"Ontario","Canada",2020-02-13,3
-"Ontario","Canada",2020-02-14,3
-"Ontario","Canada",2020-02-15,3
-"Ontario","Canada",2020-02-16,3
-"Ontario","Canada",2020-02-17,3
-"Ontario","Canada",2020-02-18,3
-"Ontario","Canada",2020-02-19,3
-"Ontario","Canada",2020-02-20,3
-"Ontario","Canada",2020-02-21,3
-"Ontario","Canada",2020-02-22,3
-"Ontario","Canada",2020-02-23,3
-"Ontario","Canada",2020-02-24,4
-"Ontario","Canada",2020-02-25,4
-"Ontario","Canada",2020-02-26,5
-"Ontario","Canada",2020-02-27,6
-"Ontario","Canada",2020-02-28,6
-"Ontario","Canada",2020-02-29,8
-"Ontario","Canada",2020-03-01,15
-"Ontario","Canada",2020-03-02,15
-"Ontario","Canada",2020-03-03,20
-"Ontario","Canada",2020-03-04,20
-"Ontario","Canada",2020-03-05,22
-"Ontario","Canada",2020-03-06,28
-"Ontario","Canada",2020-03-07,28
-"Ontario","Canada",2020-03-08,31
-"Ontario","Canada",2020-03-09,34
-"Ontario","Canada",2020-03-10,34
-"Ontario","Canada",2020-03-11,42
-"Ontario","Canada",2020-03-12,59
-"Ontario","Canada",2020-03-13,79
-"Ontario","Canada",2020-03-14,79
-"Ontario","Canada",2020-03-15,103
-"Ontario","Canada",2020-03-16,145
-"Ontario","Canada",2020-03-17,177
-"Ontario","Canada",2020-03-18,189
-"Ontario","Canada",2020-03-19,258
-"Ontario","Canada",2020-03-20,311
-"Ontario","Canada",2020-03-21,377
-"Ontario","Canada",2020-03-22,425
-"Ontario","Canada",2020-03-23,503
-"Ontario","Canada",2020-03-24,588
-"Ontario","Canada",2020-03-25,688
-"Ontario","Canada",2020-03-26,858
-"Ontario","Canada",2020-03-27,993
-"Ontario","Canada",2020-03-28,993
-"Ontario","Canada",2020-03-29,1355
-"Ontario","Canada",2020-03-30,1706
-"Ontario","Canada",2020-03-31,1966
-"Ontario","Canada",2020-04-01,2392
-"Ontario","Canada",2020-04-02,2793
-"Ontario","Canada",2020-04-03,3255
-"Ontario","Canada",2020-04-04,3630
-"Ontario","Canada",2020-04-05,4038
-"Ontario","Canada",2020-04-06,4347
-"Ontario","Canada",2020-04-07,4726
-"Ontario","Canada",2020-04-08,5276
-"Ontario","Canada",2020-04-09,5759
-"Ontario","Canada",2020-04-10,6237
-"Ontario","Canada",2020-04-11,6648
-"Ontario","Canada",2020-04-12,7049
-"Ontario","Canada",2020-04-13,7470
-"Ontario","Canada",2020-04-14,7953
-"Ontario","Canada",2020-04-15,8447
-"Ontario","Canada",2020-04-16,8961
-"Ontario","Canada",2020-04-17,9525
-"Ontario","Canada",2020-04-18,10010
-"Ontario","Canada",2020-04-19,10578
-"Ontario","Canada",2020-04-20,11184
-"Ontario","Canada",2020-04-21,11735
-"Ontario","Canada",2020-04-22,12245
-"Ontario","Canada",2020-04-23,12879
-"Ontario","Canada",2020-04-24,13519
-"Quebec","Canada",2020-01-31,0
-"Quebec","Canada",2020-02-01,0
-"Quebec","Canada",2020-02-02,0
-"Quebec","Canada",2020-02-03,0
-"Quebec","Canada",2020-02-04,0
-"Quebec","Canada",2020-02-05,0
-"Quebec","Canada",2020-02-06,0
-"Quebec","Canada",2020-02-07,0
-"Quebec","Canada",2020-02-08,0
-"Quebec","Canada",2020-02-09,0
-"Quebec","Canada",2020-02-10,0
-"Quebec","Canada",2020-02-11,0
-"Quebec","Canada",2020-02-12,0
-"Quebec","Canada",2020-02-13,0
-"Quebec","Canada",2020-02-14,0
-"Quebec","Canada",2020-02-15,0
-"Quebec","Canada",2020-02-16,0
-"Quebec","Canada",2020-02-17,0
-"Quebec","Canada",2020-02-18,0
-"Quebec","Canada",2020-02-19,0
-"Quebec","Canada",2020-02-20,0
-"Quebec","Canada",2020-02-21,0
-"Quebec","Canada",2020-02-22,0
-"Quebec","Canada",2020-02-23,0
-"Quebec","Canada",2020-02-24,0
-"Quebec","Canada",2020-02-25,0
-"Quebec","Canada",2020-02-26,0
-"Quebec","Canada",2020-02-27,0
-"Quebec","Canada",2020-02-28,0
-"Quebec","Canada",2020-02-29,0
-"Quebec","Canada",2020-03-01,1
-"Quebec","Canada",2020-03-02,1
-"Quebec","Canada",2020-03-03,1
-"Quebec","Canada",2020-03-04,1
-"Quebec","Canada",2020-03-05,2
-"Quebec","Canada",2020-03-06,2
-"Quebec","Canada",2020-03-07,2
-"Quebec","Canada",2020-03-08,3
-"Quebec","Canada",2020-03-09,4
-"Quebec","Canada",2020-03-10,4
-"Quebec","Canada",2020-03-11,7
-"Quebec","Canada",2020-03-12,13
-"Quebec","Canada",2020-03-13,17
-"Quebec","Canada",2020-03-14,17
-"Quebec","Canada",2020-03-15,24
-"Quebec","Canada",2020-03-16,39
-"Quebec","Canada",2020-03-17,50
-"Quebec","Canada",2020-03-18,74
-"Quebec","Canada",2020-03-19,121
-"Quebec","Canada",2020-03-20,139
-"Quebec","Canada",2020-03-21,221
-"Quebec","Canada",2020-03-22,221
-"Quebec","Canada",2020-03-23,628
-"Quebec","Canada",2020-03-24,1013
-"Quebec","Canada",2020-03-25,1339
-"Quebec","Canada",2020-03-26,1629
-"Quebec","Canada",2020-03-27,2021
-"Quebec","Canada",2020-03-28,2498
-"Quebec","Canada",2020-03-29,2840
-"Quebec","Canada",2020-03-30,3430
-"Quebec","Canada",2020-03-31,4162
-"Quebec","Canada",2020-04-01,4611
-"Quebec","Canada",2020-04-02,5518
-"Quebec","Canada",2020-04-03,6101
-"Quebec","Canada",2020-04-04,6997
-"Quebec","Canada",2020-04-05,7944
-"Quebec","Canada",2020-04-06,8580
-"Quebec","Canada",2020-04-07,9340
-"Quebec","Canada",2020-04-08,10031
-"Quebec","Canada",2020-04-09,10912
-"Quebec","Canada",2020-04-10,11677
-"Quebec","Canada",2020-04-11,12292
-"Quebec","Canada",2020-04-12,12846
-"Quebec","Canada",2020-04-13,13557
-"Quebec","Canada",2020-04-14,14248
-"Quebec","Canada",2020-04-15,14860
-"Quebec","Canada",2020-04-16,15857
-"Quebec","Canada",2020-04-17,16798
-"Quebec","Canada",2020-04-18,17521
-"Quebec","Canada",2020-04-19,18357
-"Quebec","Canada",2020-04-20,19319
-"Quebec","Canada",2020-04-21,20126
-"Quebec","Canada",2020-04-22,20965
-"Quebec","Canada",2020-04-23,21838
-"Quebec","Canada",2020-04-24,21838
+"city","date","cases"
+"Vancouver",2020-01-29,0
+"Vancouver",2020-01-30,0
+"Vancouver",2020-01-31,0
+"Vancouver",2020-02-01,0
+"Vancouver",2020-02-02,0
+"Vancouver",2020-02-03,0
+"Vancouver",2020-02-04,0
+"Vancouver",2020-02-05,0
+"Vancouver",2020-02-06,1
+"Vancouver",2020-02-07,0
+"Vancouver",2020-02-08,0
+"Vancouver",2020-02-09,0
+"Vancouver",2020-02-10,0
+"Vancouver",2020-02-11,0
+"Vancouver",2020-02-12,0
+"Vancouver",2020-02-13,0
+"Vancouver",2020-02-14,0
+"Vancouver",2020-02-15,0
+"Vancouver",2020-02-16,0
+"Vancouver",2020-02-17,0
+"Vancouver",2020-02-18,0
+"Vancouver",2020-02-19,0
+"Vancouver",2020-02-20,0
+"Vancouver",2020-02-21,0
+"Vancouver",2020-02-22,0
+"Vancouver",2020-02-23,0
+"Vancouver",2020-02-24,0
+"Vancouver",2020-02-25,0
+"Vancouver",2020-02-26,0
+"Vancouver",2020-02-27,0
+"Vancouver",2020-02-28,0
+"Vancouver",2020-02-29,0
+"Vancouver",2020-03-01,0
+"Vancouver",2020-03-02,0
+"Vancouver",2020-03-03,4
+"Vancouver",2020-03-04,0
+"Vancouver",2020-03-05,4
+"Vancouver",2020-03-06,3
+"Vancouver",2020-03-07,1
+"Vancouver",2020-03-08,0
+"Vancouver",2020-03-09,2
+"Vancouver",2020-03-10,4
+"Vancouver",2020-03-11,13
+"Vancouver",2020-03-12,8
+"Vancouver",2020-03-13,14
+"Vancouver",2020-03-14,18
+"Vancouver",2020-03-15,14
+"Vancouver",2020-03-16,26
+"Vancouver",2020-03-17,24
+"Vancouver",2020-03-18,27
+"Vancouver",2020-03-19,29
+"Vancouver",2020-03-20,29
+"Vancouver",2020-03-21,34
+"Vancouver",2020-03-22,21
+"Vancouver",2020-03-23,26
+"Vancouver",2020-03-24,23
+"Vancouver",2020-03-25,45
+"Vancouver",2020-03-26,18
+"Vancouver",2020-03-27,28
+"Vancouver",2020-03-28,23
+"Vancouver",2020-03-29,22
+"Vancouver",2020-03-30,23
+"Vancouver",2020-03-31,17
+"Vancouver",2020-04-01,22
+"Vancouver",2020-04-02,18
+"Vancouver",2020-04-03,13
+"Vancouver",2020-04-04,13
+"Vancouver",2020-04-05,7
+"Vancouver",2020-04-06,25
+"Vancouver",2020-04-07,9
+"Vancouver",2020-04-08,10
+"Vancouver",2020-04-09,6
+"Vancouver",2020-04-10,12
+"Vancouver",2020-04-11,4
+"Vancouver",2020-04-12,2
+"Toronto",2020-01-15,0
+"Toronto",2020-01-16,0
+"Toronto",2020-01-17,0
+"Toronto",2020-01-18,0
+"Toronto",2020-01-19,0
+"Toronto",2020-01-20,0
+"Toronto",2020-01-21,0
+"Toronto",2020-01-22,0
+"Toronto",2020-01-23,2
+"Toronto",2020-01-24,0
+"Toronto",2020-01-25,0
+"Toronto",2020-01-26,0
+"Toronto",2020-01-27,0
+"Toronto",2020-01-28,0
+"Toronto",2020-01-29,0
+"Toronto",2020-01-30,0
+"Toronto",2020-01-31,0
+"Toronto",2020-02-01,0
+"Toronto",2020-02-02,0
+"Toronto",2020-02-03,0
+"Toronto",2020-02-04,0
+"Toronto",2020-02-05,0
+"Toronto",2020-02-06,0
+"Toronto",2020-02-07,0
+"Toronto",2020-02-08,0
+"Toronto",2020-02-09,0
+"Toronto",2020-02-10,0
+"Toronto",2020-02-11,0
+"Toronto",2020-02-12,0
+"Toronto",2020-02-13,0
+"Toronto",2020-02-14,0
+"Toronto",2020-02-15,0
+"Toronto",2020-02-16,0
+"Toronto",2020-02-17,0
+"Toronto",2020-02-18,0
+"Toronto",2020-02-19,0
+"Toronto",2020-02-20,0
+"Toronto",2020-02-21,1
+"Toronto",2020-02-22,0
+"Toronto",2020-02-23,0
+"Toronto",2020-02-24,0
+"Toronto",2020-02-25,1
+"Toronto",2020-02-26,1
+"Toronto",2020-02-27,1
+"Toronto",2020-02-28,1
+"Toronto",2020-02-29,1
+"Toronto",2020-03-01,2
+"Toronto",2020-03-02,0
+"Toronto",2020-03-03,1
+"Toronto",2020-03-04,1
+"Toronto",2020-03-05,2
+"Toronto",2020-03-06,2
+"Toronto",2020-03-07,2
+"Toronto",2020-03-08,4
+"Toronto",2020-03-09,2
+"Toronto",2020-03-10,4
+"Toronto",2020-03-11,10
+"Toronto",2020-03-12,24
+"Toronto",2020-03-13,13
+"Toronto",2020-03-14,8
+"Toronto",2020-03-15,15
+"Toronto",2020-03-16,19
+"Toronto",2020-03-17,18
+"Toronto",2020-03-18,28
+"Toronto",2020-03-19,35
+"Toronto",2020-03-20,36
+"Toronto",2020-03-21,14
+"Toronto",2020-03-22,33
+"Toronto",2020-03-23,41
+"Toronto",2020-03-24,42
+"Toronto",2020-03-25,32
+"Toronto",2020-03-26,109
+"Toronto",2020-03-27,100
+"Toronto",2020-03-28,41
+"Toronto",2020-03-29,38
+"Toronto",2020-03-30,72
+"Toronto",2020-03-31,86
+"Toronto",2020-04-01,93
+"Toronto",2020-04-02,111
+"Toronto",2020-04-03,110
+"Toronto",2020-04-04,120
+"Toronto",2020-04-05,70
+"Toronto",2020-04-06,114
+"Toronto",2020-04-07,191
+"Toronto",2020-04-08,153
+"Toronto",2020-04-09,165
+"Toronto",2020-04-10,127
+"Toronto",2020-04-11,129
+"Toronto",2020-04-12,164
+"Montréal",2020-01-24,0
+"Montréal",2020-01-25,0
+"Montréal",2020-01-26,0
+"Montréal",2020-01-27,0
+"Montréal",2020-01-28,0
+"Montréal",2020-01-29,0
+"Montréal",2020-01-30,0
+"Montréal",2020-01-31,0
+"Montréal",2020-02-01,0
+"Montréal",2020-02-02,0
+"Montréal",2020-02-03,0
+"Montréal",2020-02-04,0
+"Montréal",2020-02-05,0
+"Montréal",2020-02-06,0
+"Montréal",2020-02-07,0
+"Montréal",2020-02-08,0
+"Montréal",2020-02-09,0
+"Montréal",2020-02-10,0
+"Montréal",2020-02-11,0
+"Montréal",2020-02-12,0
+"Montréal",2020-02-13,0
+"Montréal",2020-02-14,0
+"Montréal",2020-02-15,0
+"Montréal",2020-02-16,0
+"Montréal",2020-02-17,0
+"Montréal",2020-02-18,0
+"Montréal",2020-02-19,0
+"Montréal",2020-02-20,0
+"Montréal",2020-02-21,0
+"Montréal",2020-02-22,0
+"Montréal",2020-02-23,0
+"Montréal",2020-02-24,0
+"Montréal",2020-02-25,0
+"Montréal",2020-02-26,0
+"Montréal",2020-02-27,0
+"Montréal",2020-02-28,0
+"Montréal",2020-02-29,0
+"Montréal",2020-03-01,0
+"Montréal",2020-03-02,0
+"Montréal",2020-03-03,0
+"Montréal",2020-03-04,0
+"Montréal",2020-03-05,0
+"Montréal",2020-03-06,0
+"Montréal",2020-03-07,1
+"Montréal",2020-03-08,0
+"Montréal",2020-03-09,0
+"Montréal",2020-03-10,0
+"Montréal",2020-03-11,0
+"Montréal",2020-03-12,2
+"Montréal",2020-03-13,1
+"Montréal",2020-03-14,1
+"Montréal",2020-03-15,1
+"Montréal",2020-03-16,2
+"Montréal",2020-03-17,5
+"Montréal",2020-03-18,2
+"Montréal",2020-03-19,7
+"Montréal",2020-03-20,28
+"Montréal",2020-03-21,28
+"Montréal",2020-03-22,88
+"Montréal",2020-03-23,93
+"Montréal",2020-03-24,128
+"Montréal",2020-03-25,121
+"Montréal",2020-03-26,144
+"Montréal",2020-03-27,170
+"Montréal",2020-03-28,283
+"Montréal",2020-03-29,195
+"Montréal",2020-03-30,265
+"Montréal",2020-03-31,296
+"Montréal",2020-04-01,338
+"Montréal",2020-04-02,321
+"Montréal",2020-04-03,375
+"Montréal",2020-04-04,297
+"Montréal",2020-04-05,410
+"Montréal",2020-04-06,259
+"Montréal",2020-04-07,345
+"Montréal",2020-04-08,440
+"Montréal",2020-04-09,330
+"Montréal",2020-04-10,473
+"Montréal",2020-04-11,335
+"Montréal",2020-04-12,287

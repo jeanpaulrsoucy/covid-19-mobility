@@ -1,103 +1,103 @@
-"state","country","date","cases"
-"Moscow","Russia","2020-03-01",0
-"Moscow","Russia","2020-03-02",0
-"Moscow","Russia","2020-03-03",0
-"Moscow","Russia","2020-03-04",0
-"Moscow","Russia","2020-03-05",0
-"Moscow","Russia","2020-03-06",5
-"Moscow","Russia","2020-03-07",5
-"Moscow","Russia","2020-03-08",5
-"Moscow","Russia","2020-03-09",8
-"Moscow","Russia","2020-03-10",11
-"Moscow","Russia","2020-03-11",17
-"Moscow","Russia","2020-03-12",21
-"Moscow","Russia","2020-03-13",26
-"Moscow","Russia","2020-03-14",35
-"Moscow","Russia","2020-03-15",35
-"Moscow","Russia","2020-03-16",53
-"Moscow","Russia","2020-03-17",55
-"Moscow","Russia","2020-03-18",86
-"Moscow","Russia","2020-03-19",98
-"Moscow","Russia","2020-03-20",131
-"Moscow","Russia","2020-03-21",137
-"Moscow","Russia","2020-03-22",191
-"Moscow","Russia","2020-03-23",262
-"Moscow","Russia","2020-03-24",290
-"Moscow","Russia","2020-03-25",410
-"Moscow","Russia","2020-03-26",546
-"Moscow","Russia","2020-03-27",703
-"Moscow","Russia","2020-03-28",817
-"Moscow","Russia","2020-03-29",1014
-"Moscow","Russia","2020-03-30",1226
-"Moscow","Russia","2020-03-31",1613
-"Moscow","Russia","2020-04-01",1880
-"Moscow","Russia","2020-04-02",2475
-"Moscow","Russia","2020-04-03",2923
-"Moscow","Russia","2020-04-04",3357
-"Moscow","Russia","2020-04-05",3893
-"Moscow","Russia","2020-04-06",4484
-"Moscow","Russia","2020-04-07",5181
-"Moscow","Russia","2020-04-08",5841
-"Moscow","Russia","2020-04-09",6698
-"Moscow","Russia","2020-04-10",7822
-"Moscow","Russia","2020-04-11",8852
-"Moscow","Russia","2020-04-12",10158
-"Moscow","Russia","2020-04-13",11513
-"Moscow","Russia","2020-04-14",13002
-"Moscow","Russia","2020-04-15",14776
-"Moscow","Russia","2020-04-16",16146
-"Moscow","Russia","2020-04-17",18105
-"Moscow","Russia","2020-04-18",20754
-"Moscow","Russia","2020-04-19",24324
-"Moscow","Russia","2020-04-20",26350
-"St. Petersburg","Russia","2020-03-01",0
-"St. Petersburg","Russia","2020-03-02",0
-"St. Petersburg","Russia","2020-03-03",0
-"St. Petersburg","Russia","2020-03-04",0
-"St. Petersburg","Russia","2020-03-05",0
-"St. Petersburg","Russia","2020-03-06",0
-"St. Petersburg","Russia","2020-03-07",1
-"St. Petersburg","Russia","2020-03-08",1
-"St. Petersburg","Russia","2020-03-09",1
-"St. Petersburg","Russia","2020-03-10",1
-"St. Petersburg","Russia","2020-03-11",1
-"St. Petersburg","Russia","2020-03-12",1
-"St. Petersburg","Russia","2020-03-13",4
-"St. Petersburg","Russia","2020-03-14",5
-"St. Petersburg","Russia","2020-03-15",5
-"St. Petersburg","Russia","2020-03-16",8
-"St. Petersburg","Russia","2020-03-17",9
-"St. Petersburg","Russia","2020-03-18",9
-"St. Petersburg","Russia","2020-03-19",10
-"St. Petersburg","Russia","2020-03-20",14
-"St. Petersburg","Russia","2020-03-21",16
-"St. Petersburg","Russia","2020-03-22",16
-"St. Petersburg","Russia","2020-03-23",16
-"St. Petersburg","Russia","2020-03-24",21
-"St. Petersburg","Russia","2020-03-25",21
-"St. Petersburg","Russia","2020-03-26",26
-"St. Petersburg","Russia","2020-03-27",26
-"St. Petersburg","Russia","2020-03-28",37
-"St. Petersburg","Russia","2020-03-29",42
-"St. Petersburg","Russia","2020-03-30",50
-"St. Petersburg","Russia","2020-03-31",98
-"St. Petersburg","Russia","2020-04-01",125
-"St. Petersburg","Russia","2020-04-02",147
-"St. Petersburg","Russia","2020-04-03",156
-"St. Petersburg","Russia","2020-04-04",171
-"St. Petersburg","Russia","2020-04-05",191
-"St. Petersburg","Russia","2020-04-06",226
-"St. Petersburg","Russia","2020-04-07",295
-"St. Petersburg","Russia","2020-04-08",329
-"St. Petersburg","Russia","2020-04-09",373
-"St. Petersburg","Russia","2020-04-10",408
-"St. Petersburg","Russia","2020-04-11",488
-"St. Petersburg","Russia","2020-04-12",557
-"St. Petersburg","Russia","2020-04-13",678
-"St. Petersburg","Russia","2020-04-14",799
-"St. Petersburg","Russia","2020-04-15",929
-"St. Petersburg","Russia","2020-04-16",1083
-"St. Petersburg","Russia","2020-04-17",1507
-"St. Petersburg","Russia","2020-04-18",1646
-"St. Petersburg","Russia","2020-04-19",1760
-"St. Petersburg","Russia","2020-04-20",1846
+city,state,country,date,cases
+Moscow,Moscow,Russia,2020-03-01,0
+Moscow,Moscow,Russia,2020-03-02,0
+Moscow,Moscow,Russia,2020-03-03,0
+Moscow,Moscow,Russia,2020-03-04,0
+Moscow,Moscow,Russia,2020-03-05,0
+Moscow,Moscow,Russia,2020-03-06,5
+Moscow,Moscow,Russia,2020-03-07,5
+Moscow,Moscow,Russia,2020-03-08,5
+Moscow,Moscow,Russia,2020-03-09,8
+Moscow,Moscow,Russia,2020-03-10,11
+Moscow,Moscow,Russia,2020-03-11,17
+Moscow,Moscow,Russia,2020-03-12,21
+Moscow,Moscow,Russia,2020-03-13,26
+Moscow,Moscow,Russia,2020-03-14,35
+Moscow,Moscow,Russia,2020-03-15,35
+Moscow,Moscow,Russia,2020-03-16,53
+Moscow,Moscow,Russia,2020-03-17,55
+Moscow,Moscow,Russia,2020-03-18,86
+Moscow,Moscow,Russia,2020-03-19,98
+Moscow,Moscow,Russia,2020-03-20,131
+Moscow,Moscow,Russia,2020-03-21,137
+Moscow,Moscow,Russia,2020-03-22,191
+Moscow,Moscow,Russia,2020-03-23,262
+Moscow,Moscow,Russia,2020-03-24,290
+Moscow,Moscow,Russia,2020-03-25,410
+Moscow,Moscow,Russia,2020-03-26,546
+Moscow,Moscow,Russia,2020-03-27,703
+Moscow,Moscow,Russia,2020-03-28,817
+Moscow,Moscow,Russia,2020-03-29,1014
+Moscow,Moscow,Russia,2020-03-30,1226
+Moscow,Moscow,Russia,2020-03-31,1613
+Moscow,Moscow,Russia,2020-04-01,1880
+Moscow,Moscow,Russia,2020-04-02,2475
+Moscow,Moscow,Russia,2020-04-03,2923
+Moscow,Moscow,Russia,2020-04-04,3357
+Moscow,Moscow,Russia,2020-04-05,3893
+Moscow,Moscow,Russia,2020-04-06,4484
+Moscow,Moscow,Russia,2020-04-07,5181
+Moscow,Moscow,Russia,2020-04-08,5841
+Moscow,Moscow,Russia,2020-04-09,6698
+Moscow,Moscow,Russia,2020-04-10,7822
+Moscow,Moscow,Russia,2020-04-11,8852
+Moscow,Moscow,Russia,2020-04-12,10158
+Moscow,Moscow,Russia,2020-04-13,11513
+Moscow,Moscow,Russia,2020-04-14,13002
+Moscow,Moscow,Russia,2020-04-15,14776
+Moscow,Moscow,Russia,2020-04-16,16146
+Moscow,Moscow,Russia,2020-04-17,18105
+Moscow,Moscow,Russia,2020-04-18,20754
+Moscow,Moscow,Russia,2020-04-19,24324
+Moscow,Moscow,Russia,2020-04-20,26350
+St. Petersburg,St. Petersburg,Russia,2020-03-01,0
+St. Petersburg,St. Petersburg,Russia,2020-03-02,0
+St. Petersburg,St. Petersburg,Russia,2020-03-03,0
+St. Petersburg,St. Petersburg,Russia,2020-03-04,0
+St. Petersburg,St. Petersburg,Russia,2020-03-05,0
+St. Petersburg,St. Petersburg,Russia,2020-03-06,0
+St. Petersburg,St. Petersburg,Russia,2020-03-07,1
+St. Petersburg,St. Petersburg,Russia,2020-03-08,1
+St. Petersburg,St. Petersburg,Russia,2020-03-09,1
+St. Petersburg,St. Petersburg,Russia,2020-03-10,1
+St. Petersburg,St. Petersburg,Russia,2020-03-11,1
+St. Petersburg,St. Petersburg,Russia,2020-03-12,1
+St. Petersburg,St. Petersburg,Russia,2020-03-13,4
+St. Petersburg,St. Petersburg,Russia,2020-03-14,5
+St. Petersburg,St. Petersburg,Russia,2020-03-15,5
+St. Petersburg,St. Petersburg,Russia,2020-03-16,8
+St. Petersburg,St. Petersburg,Russia,2020-03-17,9
+St. Petersburg,St. Petersburg,Russia,2020-03-18,9
+St. Petersburg,St. Petersburg,Russia,2020-03-19,10
+St. Petersburg,St. Petersburg,Russia,2020-03-20,14
+St. Petersburg,St. Petersburg,Russia,2020-03-21,16
+St. Petersburg,St. Petersburg,Russia,2020-03-22,16
+St. Petersburg,St. Petersburg,Russia,2020-03-23,16
+St. Petersburg,St. Petersburg,Russia,2020-03-24,21
+St. Petersburg,St. Petersburg,Russia,2020-03-25,21
+St. Petersburg,St. Petersburg,Russia,2020-03-26,26
+St. Petersburg,St. Petersburg,Russia,2020-03-27,26
+St. Petersburg,St. Petersburg,Russia,2020-03-28,37
+St. Petersburg,St. Petersburg,Russia,2020-03-29,42
+St. Petersburg,St. Petersburg,Russia,2020-03-30,50
+St. Petersburg,St. Petersburg,Russia,2020-03-31,98
+St. Petersburg,St. Petersburg,Russia,2020-04-01,125
+St. Petersburg,St. Petersburg,Russia,2020-04-02,147
+St. Petersburg,St. Petersburg,Russia,2020-04-03,156
+St. Petersburg,St. Petersburg,Russia,2020-04-04,171
+St. Petersburg,St. Petersburg,Russia,2020-04-05,191
+St. Petersburg,St. Petersburg,Russia,2020-04-06,226
+St. Petersburg,St. Petersburg,Russia,2020-04-07,295
+St. Petersburg,St. Petersburg,Russia,2020-04-08,329
+St. Petersburg,St. Petersburg,Russia,2020-04-09,373
+St. Petersburg,St. Petersburg,Russia,2020-04-10,408
+St. Petersburg,St. Petersburg,Russia,2020-04-11,488
+St. Petersburg,St. Petersburg,Russia,2020-04-12,557
+St. Petersburg,St. Petersburg,Russia,2020-04-13,678
+St. Petersburg,St. Petersburg,Russia,2020-04-14,799
+St. Petersburg,St. Petersburg,Russia,2020-04-15,929
+St. Petersburg,St. Petersburg,Russia,2020-04-16,1083
+St. Petersburg,St. Petersburg,Russia,2020-04-17,1507
+St. Petersburg,St. Petersburg,Russia,2020-04-18,1646
+St. Petersburg,St. Petersburg,Russia,2020-04-19,1760
+St. Petersburg,St. Petersburg,Russia,2020-04-20,1846

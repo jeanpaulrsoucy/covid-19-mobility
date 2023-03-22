@@ -1,0 +1,572 @@
+"LGA_CODE_2017","LGA_NAME_2017","PHN_CODE_2017","PHN_NAME_2017","RATIO","PERCENTAGE"
+10050,"Albury (C)","PHN205","Murray",1,100
+10130,"Armidale Regional (A)","PHN108","Hunter New England and Central Coast",1,100
+10250,"Ballina (A)","PHN109","North Coast",1,100
+10300,"Balranald (A)","PHN107","Western NSW",1,100
+10470,"Bathurst Regional (A)","PHN107","Western NSW",1,100
+10500,"Bayside (A)","PHN101","Central and Eastern Sydney",1,100
+10550,"Bega Valley (A)","PHN106","South Eastern NSW",1,100
+10600,"Bellingen (A)","PHN109","North Coast",1,100
+10650,"Berrigan (A)","PHN110","Murrumbidgee",1,100
+10750,"Blacktown (C)","PHN103","Western Sydney",1,100
+10800,"Bland (A)","PHN110","Murrumbidgee",1,100
+10850,"Blayney (A)","PHN107","Western NSW",1,100
+10900,"Blue Mountains (C)","PHN104","Nepean Blue Mountains",1,100
+10950,"Bogan (A)","PHN107","Western NSW",1,100
+11150,"Bourke (A)","PHN107","Western NSW",1,100
+11200,"Brewarrina (A)","PHN107","Western NSW",1,100
+11250,"Broken Hill (C)","PHN107","Western NSW",1,100
+11300,"Burwood (A)","PHN101","Central and Eastern Sydney",1,100
+11350,"Byron (A)","PHN109","North Coast",1,100
+11400,"Cabonne (A)","PHN107","Western NSW",1,100
+11450,"Camden (A)","PHN105","South Western Sydney",1,100
+11500,"Campbelltown (C) (NSW)","PHN105","South Western Sydney",1,100
+11520,"Canada Bay (A)","PHN101","Central and Eastern Sydney",1,100
+11570,"Canterbury-Bankstown (A)","PHN101","Central and Eastern Sydney",0.4311469,43.1146905
+11570,"Canterbury-Bankstown (A)","PHN105","South Western Sydney",0.5688531,56.8853095
+11600,"Carrathool (A)","PHN110","Murrumbidgee",1,100
+11650,"Central Coast (C) (NSW)","PHN108","Hunter New England and Central Coast",1,100
+11700,"Central Darling (A)","PHN107","Western NSW",1,100
+11720,"Cessnock (C)","PHN108","Hunter New England and Central Coast",1,100
+11730,"Clarence Valley (A)","PHN109","North Coast",1,100
+11750,"Cobar (A)","PHN107","Western NSW",1,100
+11800,"Coffs Harbour (C)","PHN109","North Coast",1,100
+12000,"Coolamon (A)","PHN110","Murrumbidgee",1,100
+12150,"Coonamble (A)","PHN107","Western NSW",1,100
+12350,"Cowra (A)","PHN107","Western NSW",1,100
+12380,"Cumberland (A)","PHN103","Western Sydney",1,100
+12700,"Dungog (A)","PHN108","Hunter New England and Central Coast",1,100
+12730,"Edward River (A)","PHN110","Murrumbidgee",1,100
+12750,"Eurobodalla (A)","PHN106","South Eastern NSW",1,100
+12850,"Fairfield (C)","PHN105","South Western Sydney",1,100
+12870,"Federation (A)","PHN110","Murrumbidgee",1,100
+12900,"Forbes (A)","PHN107","Western NSW",1,100
+12930,"Georges River (A)","PHN101","Central and Eastern Sydney",1,100
+12950,"Gilgandra (A)","PHN107","Western NSW",1,100
+13010,"Glen Innes Severn (A)","PHN108","Hunter New England and Central Coast",1,100
+13310,"Goulburn Mulwaree (A)","PHN106","South Eastern NSW",1,100
+13340,"Greater Hume Shire (A)","PHN110","Murrumbidgee",1,100
+13450,"Griffith (C)","PHN110","Murrumbidgee",1,100
+13510,"Gundagai (A)","PHN110","Murrumbidgee",1,100
+13550,"Gunnedah (A)","PHN108","Hunter New England and Central Coast",1,100
+13660,"Gwydir (A)","PHN108","Hunter New England and Central Coast",1,100
+13800,"Hawkesbury (C)","PHN104","Nepean Blue Mountains",1,100
+13850,"Hay (A)","PHN110","Murrumbidgee",1,100
+13910,"Hilltops (A)","PHN110","Murrumbidgee",1,100
+14000,"Hornsby (A)","PHN102","Northern Sydney",1,100
+14100,"Hunters Hill (A)","PHN102","Northern Sydney",1,100
+14170,"Inner West (A)","PHN101","Central and Eastern Sydney",1,100
+14200,"Inverell (A)","PHN108","Hunter New England and Central Coast",1,100
+14300,"Junee (A)","PHN110","Murrumbidgee",1,100
+14350,"Kempsey (A)","PHN109","North Coast",1,100
+14400,"Kiama (A)","PHN106","South Eastern NSW",1,100
+14500,"Ku-ring-gai (A)","PHN102","Northern Sydney",1,100
+14550,"Kyogle (A)","PHN109","North Coast",1,100
+14600,"Lachlan (A)","PHN107","Western NSW",0.7134814,71.3481361
+14600,"Lachlan (A)","PHN110","Murrumbidgee",0.2865186,28.6518639
+14650,"Lake Macquarie (C)","PHN108","Hunter New England and Central Coast",1,100
+14700,"Lane Cove (A)","PHN102","Northern Sydney",1,100
+14750,"Leeton (A)","PHN110","Murrumbidgee",1,100
+14850,"Lismore (C)","PHN109","North Coast",1,100
+14870,"Lithgow (C)","PHN104","Nepean Blue Mountains",1,100
+14900,"Liverpool (C)","PHN105","South Western Sydney",1,100
+14920,"Liverpool Plains (A)","PHN108","Hunter New England and Central Coast",1,100
+14950,"Lockhart (A)","PHN110","Murrumbidgee",1,100
+15050,"Maitland (C)","PHN108","Hunter New England and Central Coast",1,100
+15240,"Mid-Coast (A)","PHN108","Hunter New England and Central Coast",1,100
+15270,"Mid-Western Regional (A)","PHN104","Nepean Blue Mountains",0.0004152,0.0415214
+15270,"Mid-Western Regional (A)","PHN107","Western NSW",0.9995848,99.9584786
+15300,"Moree Plains (A)","PHN108","Hunter New England and Central Coast",1,100
+15350,"Mosman (A)","PHN102","Northern Sydney",1,100
+15520,"Murray River (A)","PHN110","Murrumbidgee",1,100
+15560,"Murrumbidgee (A)","PHN110","Murrumbidgee",1,100
+15650,"Muswellbrook (A)","PHN108","Hunter New England and Central Coast",1,100
+15700,"Nambucca (A)","PHN109","North Coast",1,100
+15750,"Narrabri (A)","PHN108","Hunter New England and Central Coast",1,100
+15800,"Narrandera (A)","PHN110","Murrumbidgee",1,100
+15850,"Narromine (A)","PHN107","Western NSW",1,100
+15900,"Newcastle (C)","PHN108","Hunter New England and Central Coast",1,100
+15950,"North Sydney (A)","PHN102","Northern Sydney",1,100
+15990,"Northern Beaches (A)","PHN102","Northern Sydney",1,100
+16100,"Oberon (A)","PHN107","Western NSW",1,100
+16150,"Orange (C)","PHN107","Western NSW",1,100
+16200,"Parkes (A)","PHN107","Western NSW",1,100
+16260,"Parramatta (C)","PHN102","Northern Sydney",0.0962924,9.6292364
+16260,"Parramatta (C)","PHN103","Western Sydney",0.9037076,90.3707636
+16350,"Penrith (C)","PHN104","Nepean Blue Mountains",1,100
+16380,"Port Macquarie-Hastings (A)","PHN109","North Coast",1,100
+16400,"Port Stephens (A)","PHN108","Hunter New England and Central Coast",1,100
+16490,"Queanbeyan-Palerang Regional (A)","PHN106","South Eastern NSW",1,100
+16550,"Randwick (C)","PHN101","Central and Eastern Sydney",1,100
+16610,"Richmond Valley (A)","PHN109","North Coast",1,100
+16700,"Ryde (C)","PHN102","Northern Sydney",1,100
+16900,"Shellharbour (C)","PHN106","South Eastern NSW",1,100
+16950,"Shoalhaven (C)","PHN106","South Eastern NSW",1,100
+17000,"Singleton (A)","PHN108","Hunter New England and Central Coast",1,100
+17040,"Snowy Monaro Regional (A)","PHN106","South Eastern NSW",1,100
+17080,"Snowy Valleys (A)","PHN110","Murrumbidgee",1,100
+17100,"Strathfield (A)","PHN101","Central and Eastern Sydney",1,100
+17150,"Sutherland Shire (A)","PHN101","Central and Eastern Sydney",1,100
+17200,"Sydney (C)","PHN101","Central and Eastern Sydney",1,100
+17310,"Tamworth Regional (A)","PHN108","Hunter New England and Central Coast",1,100
+17350,"Temora (A)","PHN110","Murrumbidgee",1,100
+17400,"Tenterfield (A)","PHN108","Hunter New England and Central Coast",0.9349348,93.4934824
+17400,"Tenterfield (A)","PHN109","North Coast",0.0650652,6.5065176
+17420,"The Hills Shire (A)","PHN103","Western Sydney",1,100
+17550,"Tweed (A)","PHN109","North Coast",1,100
+17620,"Upper Hunter Shire (A)","PHN108","Hunter New England and Central Coast",1,100
+17640,"Upper Lachlan Shire (A)","PHN106","South Eastern NSW",1,100
+17650,"Uralla (A)","PHN108","Hunter New England and Central Coast",1,100
+17750,"Wagga Wagga (C)","PHN110","Murrumbidgee",1,100
+17850,"Walcha (A)","PHN108","Hunter New England and Central Coast",1,100
+17900,"Walgett (A)","PHN107","Western NSW",1,100
+17950,"Warren (A)","PHN107","Western NSW",1,100
+18020,"Warrumbungle Shire (A)","PHN107","Western NSW",1,100
+18050,"Waverley (A)","PHN101","Central and Eastern Sydney",1,100
+18100,"Weddin (A)","PHN107","Western NSW",1,100
+18200,"Wentworth (A)","PHN107","Western NSW",1,100
+18230,"Western Plains Regional (A)","PHN107","Western NSW",1,100
+18250,"Willoughby (C)","PHN102","Northern Sydney",1,100
+18350,"Wingecarribee (A)","PHN105","South Western Sydney",1,100
+18400,"Wollondilly (A)","PHN105","South Western Sydney",1,100
+18450,"Wollongong (C)","PHN106","South Eastern NSW",1,100
+18500,"Woollahra (A)","PHN101","Central and Eastern Sydney",1,100
+18710,"Yass Valley (A)","PHN106","South Eastern NSW",1,100
+19399,"Unincorporated NSW","PHN101","Central and Eastern Sydney",0.3684723,36.8472265
+19399,"Unincorporated NSW","PHN107","Western NSW",0.6315277,63.1527735
+20110,"Alpine (S)","PHN205","Murray",1,100
+20260,"Ararat (RC)","PHN206","Western Victoria",1,100
+20570,"Ballarat (C)","PHN206","Western Victoria",1,100
+20660,"Banyule (C)","PHN202","Eastern Melbourne",1,100
+20740,"Bass Coast (S)","PHN204","Gippsland",1,100
+20830,"Baw Baw (S)","PHN204","Gippsland",1,100
+20910,"Bayside (C)","PHN203","South Eastern Melbourne",1,100
+21010,"Benalla (RC)","PHN205","Murray",1,100
+21110,"Boroondara (C)","PHN202","Eastern Melbourne",1,100
+21180,"Brimbank (C)","PHN201","North Western Melbourne",1,100
+21270,"Buloke (S)","PHN205","Murray",1,100
+21370,"Campaspe (S)","PHN205","Murray",1,100
+21450,"Cardinia (S)","PHN202","Eastern Melbourne",0.0019651,0.1965115
+21450,"Cardinia (S)","PHN203","South Eastern Melbourne",0.9980349,99.8034885
+21610,"Casey (C)","PHN203","South Eastern Melbourne",1,100
+21670,"Central Goldfields (S)","PHN205","Murray",0.0013098,0.1309809
+21670,"Central Goldfields (S)","PHN206","Western Victoria",0.9986902,99.8690191
+21750,"Colac-Otway (S)","PHN206","Western Victoria",1,100
+21830,"Corangamite (S)","PHN206","Western Victoria",1,100
+21890,"Darebin (C)","PHN201","North Western Melbourne",1,100
+22110,"East Gippsland (S)","PHN204","Gippsland",1,100
+22170,"Frankston (C)","PHN203","South Eastern Melbourne",1,100
+22250,"Gannawarra (S)","PHN205","Murray",1,100
+22310,"Glen Eira (C)","PHN203","South Eastern Melbourne",1,100
+22410,"Glenelg (S)","PHN206","Western Victoria",1,100
+22490,"Golden Plains (S)","PHN206","Western Victoria",1,100
+22620,"Greater Bendigo (C)","PHN205","Murray",1,100
+22670,"Greater Dandenong (C)","PHN203","South Eastern Melbourne",1,100
+22750,"Greater Geelong (C)","PHN206","Western Victoria",1,100
+22830,"Greater Shepparton (C)","PHN205","Murray",1,100
+22910,"Hepburn (S)","PHN206","Western Victoria",1,100
+22980,"Hindmarsh (S)","PHN206","Western Victoria",1,100
+23110,"Hobsons Bay (C)","PHN201","North Western Melbourne",1,100
+23190,"Horsham (RC)","PHN206","Western Victoria",1,100
+23270,"Hume (C)","PHN201","North Western Melbourne",1,100
+23350,"Indigo (S)","PHN205","Murray",1,100
+23430,"Kingston (C) (Vic.)","PHN203","South Eastern Melbourne",1,100
+23670,"Knox (C)","PHN202","Eastern Melbourne",1,100
+23810,"Latrobe (C) (Vic.)","PHN204","Gippsland",1,100
+23940,"Loddon (S)","PHN205","Murray",0.9725883,97.2588289
+23940,"Loddon (S)","PHN206","Western Victoria",0.0274117,2.7411711
+24130,"Macedon Ranges (S)","PHN201","North Western Melbourne",0.6418383,64.1838256
+24130,"Macedon Ranges (S)","PHN205","Murray",0.3581617,35.8161744
+24210,"Manningham (C)","PHN202","Eastern Melbourne",1,100
+24250,"Mansfield (S)","PHN205","Murray",1,100
+24330,"Maribyrnong (C)","PHN201","North Western Melbourne",1,100
+24410,"Maroondah (C)","PHN202","Eastern Melbourne",1,100
+24600,"Melbourne (C)","PHN201","North Western Melbourne",0.9999779,99.997793
+24650,"Melton (C)","PHN201","North Western Melbourne",1,100
+24780,"Mildura (RC)","PHN205","Murray",1,100
+24850,"Mitchell (S)","PHN202","Eastern Melbourne",0.3964354,39.643539
+24850,"Mitchell (S)","PHN205","Murray",0.6035646,60.356461
+24900,"Moira (S)","PHN205","Murray",1,100
+24970,"Monash (C)","PHN202","Eastern Melbourne",0.9587094,95.8709387
+24970,"Monash (C)","PHN203","South Eastern Melbourne",0.0412906,4.1290613
+25060,"Moonee Valley (C)","PHN201","North Western Melbourne",1,100
+25150,"Moorabool (S)","PHN201","North Western Melbourne",0.6403145,64.0314452
+25150,"Moorabool (S)","PHN206","Western Victoria",0.3596855,35.9685548
+25250,"Moreland (C)","PHN201","North Western Melbourne",1,100
+25340,"Mornington Peninsula (S)","PHN203","South Eastern Melbourne",1,100
+25430,"Mount Alexander (S)","PHN205","Murray",0.999787,99.9786995
+25430,"Mount Alexander (S)","PHN206","Western Victoria",0.000213,0.0213005
+25490,"Moyne (S)","PHN206","Western Victoria",1,100
+25620,"Murrindindi (S)","PHN202","Eastern Melbourne",0.2791596,27.9159638
+25620,"Murrindindi (S)","PHN205","Murray",0.7208404,72.0840362
+25710,"Nillumbik (S)","PHN202","Eastern Melbourne",1,100
+25810,"Northern Grampians (S)","PHN206","Western Victoria",1,100
+25900,"Port Phillip (C)","PHN203","South Eastern Melbourne",1,100
+25990,"Pyrenees (S)","PHN206","Western Victoria",1,100
+26080,"Queenscliffe (B)","PHN206","Western Victoria",1,100
+26170,"South Gippsland (S)","PHN204","Gippsland",1,100
+26260,"Southern Grampians (S)","PHN206","Western Victoria",1,100
+26350,"Stonnington (C)","PHN203","South Eastern Melbourne",1,100
+26430,"Strathbogie (S)","PHN205","Murray",1,100
+26490,"Surf Coast (S)","PHN206","Western Victoria",1,100
+26610,"Swan Hill (RC)","PHN205","Murray",1,100
+26670,"Towong (S)","PHN205","Murray",1,100
+26700,"Wangaratta (RC)","PHN205","Murray",1,100
+26730,"Warrnambool (C)","PHN206","Western Victoria",1,100
+26810,"Wellington (S)","PHN204","Gippsland",1,100
+26890,"West Wimmera (S)","PHN206","Western Victoria",1,100
+26980,"Whitehorse (C)","PHN202","Eastern Melbourne",1,100
+27070,"Whittlesea (C)","PHN202","Eastern Melbourne",1,100
+27170,"Wodonga (C)","PHN205","Murray",1,100
+27260,"Wyndham (C)","PHN201","North Western Melbourne",1,100
+27350,"Yarra (C)","PHN201","North Western Melbourne",1,100
+27450,"Yarra Ranges (S)","PHN202","Eastern Melbourne",0.9965094,99.6509386
+27450,"Yarra Ranges (S)","PHN203","South Eastern Melbourne",0.0022468,0.2246832
+27450,"Yarra Ranges (S)","PHN205","Murray",0.0012438,0.1243781
+27630,"Yarriambiack (S)","PHN206","Western Victoria",1,100
+29399,"Unincorporated Vic","PHN204","Gippsland",0.1700682,17.0068247
+29399,"Unincorporated Vic","PHN205","Murray",0.8299317,82.9931742
+30250,"Aurukun (S)","PHN307","Northern Queensland",1,100
+30300,"Balonne (S)","PHN305","Western Queensland",1,100
+30370,"Banana (S)","PHN304","Darling Downs and West Moreton",0.0646564,6.4656376
+30370,"Banana (S)","PHN306","Central Queensland, Wide Bay, Sunshine Coast",0.9353436,93.5343624
+30410,"Barcaldine (R)","PHN305","Western Queensland",1,100
+30450,"Barcoo (S)","PHN305","Western Queensland",1,100
+30760,"Blackall-Tambo (R)","PHN305","Western Queensland",1,100
+30900,"Boulia (S)","PHN305","Western Queensland",1,100
+31000,"Brisbane (C)","PHN301","Brisbane North",0.4538373,45.3837257
+31000,"Brisbane (C)","PHN302","Brisbane South",0.5406962,54.0696157
+31000,"Brisbane (C)","PHN304","Darling Downs and West Moreton",0.0054666,0.5466586
+31750,"Bulloo (S)","PHN305","Western Queensland",1,100
+31820,"Bundaberg (R)","PHN306","Central Queensland, Wide Bay, Sunshine Coast",1,100
+31900,"Burdekin (S)","PHN307","Northern Queensland",1,100
+31950,"Burke (S)","PHN305","Western Queensland",1,100
+32080,"Cairns (R)","PHN307","Northern Queensland",1,100
+32250,"Carpentaria (S)","PHN305","Western Queensland",1,100
+32260,"Cassowary Coast (R)","PHN307","Northern Queensland",1,100
+32270,"Central Highlands (R) (Qld)","PHN306","Central Queensland, Wide Bay, Sunshine Coast",1,100
+32310,"Charters Towers (R)","PHN307","Northern Queensland",1,100
+32330,"Cherbourg (S)","PHN304","Darling Downs and West Moreton",1,100
+32450,"Cloncurry (S)","PHN305","Western Queensland",1,100
+32500,"Cook (S)","PHN307","Northern Queensland",1,100
+32600,"Croydon (S)","PHN307","Northern Queensland",1,100
+32750,"Diamantina (S)","PHN305","Western Queensland",1,100
+32770,"Doomadgee (S)","PHN305","Western Queensland",1,100
+32810,"Douglas (S)","PHN307","Northern Queensland",1,100
+33100,"Etheridge (S)","PHN307","Northern Queensland",1,100
+33200,"Flinders (S) (Qld)","PHN307","Northern Queensland",1,100
+33220,"Fraser Coast (R)","PHN306","Central Queensland, Wide Bay, Sunshine Coast",1,100
+33360,"Gladstone (R)","PHN306","Central Queensland, Wide Bay, Sunshine Coast",1,100
+33430,"Gold Coast (C)","PHN303","Gold Coast",1,100
+33610,"Goondiwindi (R)","PHN304","Darling Downs and West Moreton",1,100
+33620,"Gympie (R)","PHN306","Central Queensland, Wide Bay, Sunshine Coast",1,100
+33800,"Hinchinbrook (S)","PHN307","Northern Queensland",1,100
+33830,"Hope Vale (S)","PHN307","Northern Queensland",1,100
+33960,"Ipswich (C)","PHN304","Darling Downs and West Moreton",1,100
+33980,"Isaac (R)","PHN307","Northern Queensland",1,100
+34420,"Kowanyama (S)","PHN307","Northern Queensland",1,100
+34530,"Livingstone (S)","PHN306","Central Queensland, Wide Bay, Sunshine Coast",1,100
+34570,"Lockhart River (S)","PHN307","Northern Queensland",1,100
+34580,"Lockyer Valley (R)","PHN304","Darling Downs and West Moreton",1,100
+34590,"Logan (C)","PHN302","Brisbane South",1,100
+34710,"Longreach (R)","PHN305","Western Queensland",1,100
+34770,"Mackay (R)","PHN307","Northern Queensland",1,100
+34800,"McKinlay (S)","PHN305","Western Queensland",1,100
+34830,"Mapoon (S)","PHN307","Northern Queensland",1,100
+34860,"Maranoa (R)","PHN305","Western Queensland",1,99.9999998
+34880,"Mareeba (S)","PHN307","Northern Queensland",1,100
+35010,"Moreton Bay (R)","PHN301","Brisbane North",1,100
+35250,"Mornington (S)","PHN305","Western Queensland",1,100
+35300,"Mount Isa (C)","PHN305","Western Queensland",1,100
+35600,"Murweh (S)","PHN305","Western Queensland",1,100
+35670,"Napranum (S)","PHN307","Northern Queensland",1,100
+35740,"Noosa (S)","PHN306","Central Queensland, Wide Bay, Sunshine Coast",1,100
+35760,"North Burnett (R)","PHN306","Central Queensland, Wide Bay, Sunshine Coast",1,100
+35780,"Northern Peninsula Area (R)","PHN307","Northern Queensland",1,100
+35790,"Palm Island (S)","PHN307","Northern Queensland",1,100
+35800,"Paroo (S)","PHN305","Western Queensland",1,100
+36070,"Pormpuraaw (S)","PHN307","Northern Queensland",1,100
+36150,"Quilpie (S)","PHN305","Western Queensland",1,100
+36250,"Redland (C)","PHN302","Brisbane South",1,100
+36300,"Richmond (S)","PHN307","Northern Queensland",1,100
+36370,"Rockhampton (R)","PHN306","Central Queensland, Wide Bay, Sunshine Coast",1,100
+36510,"Scenic Rim (R)","PHN302","Brisbane South",0.3501918,35.0191813
+36510,"Scenic Rim (R)","PHN303","Gold Coast",0.3535526,35.3552647
+36510,"Scenic Rim (R)","PHN304","Darling Downs and West Moreton",0.2962555,29.625554
+36580,"Somerset (R)","PHN301","Brisbane North",0.1844372,18.4437238
+36580,"Somerset (R)","PHN304","Darling Downs and West Moreton",0.8155628,81.5562762
+36630,"South Burnett (R)","PHN304","Darling Downs and West Moreton",1,100
+36660,"Southern Downs (R)","PHN304","Darling Downs and West Moreton",1,100
+36720,"Sunshine Coast (R)","PHN306","Central Queensland, Wide Bay, Sunshine Coast",1,100
+36820,"Tablelands (R)","PHN307","Northern Queensland",1,100
+36910,"Toowoomba (R)","PHN304","Darling Downs and West Moreton",1,100
+36950,"Torres (S)","PHN307","Northern Queensland",1,100
+36960,"Torres Strait Island (R)","PHN307","Northern Queensland",1,100
+37010,"Townsville (C)","PHN307","Northern Queensland",1,100
+37300,"Weipa (T)","PHN307","Northern Queensland",1,100
+37310,"Western Downs (R)","PHN304","Darling Downs and West Moreton",1,100
+37340,"Whitsunday (R)","PHN307","Northern Queensland",1,100
+37400,"Winton (S)","PHN305","Western Queensland",1,100
+37550,"Woorabinda (S)","PHN306","Central Queensland, Wide Bay, Sunshine Coast",1,100
+37570,"Wujal Wujal (S)","PHN307","Northern Queensland",1,100
+37600,"Yarrabah (S)","PHN307","Northern Queensland",1,100
+40070,"Adelaide (C)","PHN401","Adelaide",1,100
+40120,"Adelaide Hills (DC)","PHN402","Country SA",1,100
+40220,"Alexandrina (DC)","PHN402","Country SA",1,100
+40250,"Anangu Pitjantjatjara (AC)","PHN402","Country SA",1,100
+40310,"Barossa (DC)","PHN402","Country SA",1,100
+40430,"Barunga West (DC)","PHN402","Country SA",1,100
+40520,"Berri and Barmera (DC)","PHN402","Country SA",1,100
+40700,"Burnside (C)","PHN401","Adelaide",1,100
+40910,"Campbelltown (C) (SA)","PHN401","Adelaide",1,100
+41010,"Ceduna (DC)","PHN402","Country SA",1,100
+41060,"Charles Sturt (C)","PHN401","Adelaide",1,100
+41140,"Clare and Gilbert Valleys (DC)","PHN402","Country SA",1,100
+41190,"Cleve (DC)","PHN402","Country SA",1,100
+41330,"Coober Pedy (DC)","PHN402","Country SA",1,100
+41560,"Copper Coast (DC)","PHN402","Country SA",1,100
+41750,"Elliston (DC)","PHN402","Country SA",1,100
+41830,"Flinders Ranges (DC)","PHN402","Country SA",1,100
+41960,"Franklin Harbour (DC)","PHN402","Country SA",1,100
+42030,"Gawler (T)","PHN402","Country SA",1,100
+42110,"Goyder (DC)","PHN402","Country SA",1,100
+42250,"Grant (DC)","PHN402","Country SA",1,100
+42600,"Holdfast Bay (C)","PHN401","Adelaide",1,100
+42750,"Kangaroo Island (DC)","PHN402","Country SA",1,100
+43080,"Karoonda East Murray (DC)","PHN402","Country SA",1,100
+43220,"Kimba (DC)","PHN402","Country SA",1,100
+43360,"Kingston (DC) (SA)","PHN402","Country SA",1,100
+43650,"Light (RegC)","PHN402","Country SA",1,100
+43710,"Lower Eyre Peninsula (DC)","PHN402","Country SA",1,100
+43790,"Loxton Waikerie (DC)","PHN402","Country SA",1,100
+43920,"Mallala (DC)","PHN402","Country SA",1,100
+44000,"Maralinga Tjarutja (AC)","PHN402","Country SA",1,100
+44060,"Marion (C)","PHN401","Adelaide",1,100
+44210,"Mid Murray (DC)","PHN402","Country SA",1,100
+44340,"Mitcham (C)","PHN401","Adelaide",1,100
+44550,"Mount Barker (DC)","PHN402","Country SA",1,100
+44620,"Mount Gambier (C)","PHN402","Country SA",1,100
+44830,"Mount Remarkable (DC)","PHN402","Country SA",1,100
+45040,"Murray Bridge (RC)","PHN402","Country SA",1,100
+45090,"Naracoorte and Lucindale (DC)","PHN402","Country SA",1,100
+45120,"Northern Areas (DC)","PHN402","Country SA",1,100
+45290,"Norwood Payneham St Peters (C)","PHN401","Adelaide",1,100
+45340,"Onkaparinga (C)","PHN401","Adelaide",1,100
+45400,"Orroroo/Carrieton (DC)","PHN402","Country SA",1,100
+45540,"Peterborough (DC)","PHN402","Country SA",1,100
+45680,"Playford (C)","PHN401","Adelaide",1,100
+45890,"Port Adelaide Enfield (C)","PHN401","Adelaide",1,100
+46090,"Port Augusta (C)","PHN402","Country SA",1,100
+46300,"Port Lincoln (C)","PHN402","Country SA",1,100
+46450,"Port Pirie City and Dists (M)","PHN402","Country SA",1,100
+46510,"Prospect (C)","PHN401","Adelaide",1,100
+46670,"Renmark Paringa (DC)","PHN402","Country SA",1,100
+46860,"Robe (DC)","PHN402","Country SA",1,100
+46970,"Roxby Downs (M)","PHN402","Country SA",1,100
+47140,"Salisbury (C)","PHN401","Adelaide",1,100
+47290,"Southern Mallee (DC)","PHN402","Country SA",1,100
+47490,"Streaky Bay (DC)","PHN402","Country SA",1,100
+47630,"Tatiara (DC)","PHN402","Country SA",1,100
+47700,"Tea Tree Gully (C)","PHN401","Adelaide",1,100
+47800,"The Coorong (DC)","PHN402","Country SA",1,100
+47910,"Tumby Bay (DC)","PHN402","Country SA",1,100
+47980,"Unley (C)","PHN401","Adelaide",1,100
+48050,"Victor Harbor (C)","PHN402","Country SA",1,100
+48130,"Wakefield (DC)","PHN402","Country SA",1,100
+48260,"Walkerville (M)","PHN401","Adelaide",1,100
+48340,"Wattle Range (DC)","PHN402","Country SA",1,100
+48410,"West Torrens (C)","PHN401","Adelaide",1,100
+48540,"Whyalla (C)","PHN402","Country SA",1,100
+48640,"Wudinna (DC)","PHN402","Country SA",1,100
+48750,"Yankalilla (DC)","PHN402","Country SA",1,100
+48830,"Yorke Peninsula (DC)","PHN402","Country SA",1,100
+49399,"Unincorporated SA","PHN401","Adelaide",0.0014823,0.1482339
+49399,"Unincorporated SA","PHN402","Country SA",0.9985177,99.8517661
+50080,"Albany (C)","PHN503","Country WA",1,100
+50210,"Armadale (C)","PHN502","Perth South",1,100
+50250,"Ashburton (S)","PHN503","Country WA",1,100
+50280,"Augusta-Margaret River (S)","PHN503","Country WA",1,100
+50350,"Bassendean (T)","PHN501","Perth North",1,100
+50420,"Bayswater (C)","PHN501","Perth North",1,100
+50490,"Belmont (C)","PHN502","Perth South",1,100
+50560,"Beverley (S)","PHN503","Country WA",1,100
+50630,"Boddington (S)","PHN503","Country WA",1,100
+50770,"Boyup Brook (S)","PHN503","Country WA",1,100
+50840,"Bridgetown-Greenbushes (S)","PHN503","Country WA",1,100
+50910,"Brookton (S)","PHN503","Country WA",1,100
+50980,"Broome (S)","PHN503","Country WA",1,100
+51080,"Broomehill-Tambellup (S)","PHN503","Country WA",1,100
+51120,"Bruce Rock (S)","PHN503","Country WA",1,100
+51190,"Bunbury (C)","PHN503","Country WA",1,100
+51260,"Busselton (C)","PHN503","Country WA",1,100
+51310,"Cambridge (T)","PHN501","Perth North",1,100
+51330,"Canning (C)","PHN502","Perth South",1,100
+51400,"Capel (S)","PHN503","Country WA",1,100
+51470,"Carnamah (S)","PHN503","Country WA",1,100
+51540,"Carnarvon (S)","PHN503","Country WA",1,100
+51610,"Chapman Valley (S)","PHN503","Country WA",1,100
+51680,"Chittering (S)","PHN503","Country WA",1,100
+51750,"Claremont (T)","PHN501","Perth North",1,100
+51820,"Cockburn (C)","PHN502","Perth South",1,100
+51890,"Collie (S)","PHN503","Country WA",1,100
+51960,"Coolgardie (S)","PHN503","Country WA",1,100
+52030,"Coorow (S)","PHN503","Country WA",1,100
+52100,"Corrigin (S)","PHN503","Country WA",1,100
+52170,"Cottesloe (T)","PHN501","Perth North",1,100
+52240,"Cranbrook (S)","PHN503","Country WA",1,100
+52310,"Cuballing (S)","PHN503","Country WA",1,100
+52380,"Cue (S)","PHN503","Country WA",1,100
+52450,"Cunderdin (S)","PHN503","Country WA",1,100
+52520,"Dalwallinu (S)","PHN503","Country WA",1,100
+52590,"Dandaragan (S)","PHN503","Country WA",1,100
+52660,"Dardanup (S)","PHN503","Country WA",1,100
+52730,"Denmark (S)","PHN503","Country WA",1,100
+52800,"Derby-West Kimberley (S)","PHN503","Country WA",1,100
+52870,"Donnybrook-Balingup (S)","PHN503","Country WA",1,100
+52940,"Dowerin (S)","PHN503","Country WA",1,100
+53010,"Dumbleyung (S)","PHN503","Country WA",1,100
+53080,"Dundas (S)","PHN503","Country WA",1,100
+53150,"East Fremantle (T)","PHN502","Perth South",1,100
+53220,"East Pilbara (S)","PHN503","Country WA",1,100
+53290,"Esperance (S)","PHN503","Country WA",1,100
+53360,"Exmouth (S)","PHN503","Country WA",1,100
+53430,"Fremantle (C)","PHN502","Perth South",1,100
+53570,"Gingin (S)","PHN503","Country WA",1,100
+53640,"Gnowangerup (S)","PHN503","Country WA",1,100
+53710,"Goomalling (S)","PHN503","Country WA",1,100
+53780,"Gosnells (C)","PHN502","Perth South",1,100
+53800,"Greater Geraldton (C)","PHN503","Country WA",1,100
+53920,"Halls Creek (S)","PHN503","Country WA",1,100
+53990,"Harvey (S)","PHN503","Country WA",1,100
+54060,"Irwin (S)","PHN503","Country WA",1,100
+54130,"Jerramungup (S)","PHN503","Country WA",1,100
+54170,"Joondalup (C)","PHN501","Perth North",1,100
+54200,"Kalamunda (C)","PHN501","Perth North",1,100
+54280,"Kalgoorlie/Boulder (C)","PHN503","Country WA",1,100
+54310,"Karratha (C)","PHN503","Country WA",1,100
+54340,"Katanning (S)","PHN503","Country WA",1,100
+54410,"Kellerberrin (S)","PHN503","Country WA",1,100
+54480,"Kent (S)","PHN503","Country WA",1,100
+54550,"Kojonup (S)","PHN503","Country WA",1,100
+54620,"Kondinin (S)","PHN503","Country WA",1,100
+54690,"Koorda (S)","PHN503","Country WA",1,100
+54760,"Kulin (S)","PHN503","Country WA",1,100
+54830,"Kwinana (C)","PHN502","Perth South",1,100
+54900,"Lake Grace (S)","PHN503","Country WA",1,100
+54970,"Laverton (S)","PHN503","Country WA",1,100
+55040,"Leonora (S)","PHN503","Country WA",1,100
+55110,"Mandurah (C)","PHN502","Perth South",1,100
+55180,"Manjimup (S)","PHN503","Country WA",1,100
+55250,"Meekatharra (S)","PHN503","Country WA",1,100
+55320,"Melville (C)","PHN502","Perth South",1,100
+55390,"Menzies (S)","PHN503","Country WA",1,100
+55460,"Merredin (S)","PHN503","Country WA",1,100
+55530,"Mingenew (S)","PHN503","Country WA",1,100
+55600,"Moora (S)","PHN503","Country WA",1,100
+55670,"Morawa (S)","PHN503","Country WA",1,100
+55740,"Mosman Park (T)","PHN501","Perth North",1,100
+55810,"Mount Magnet (S)","PHN503","Country WA",1,100
+55880,"Mount Marshall (S)","PHN503","Country WA",1,100
+55950,"Mukinbudin (S)","PHN503","Country WA",1,100
+56090,"Mundaring (S)","PHN501","Perth North",1,100
+56160,"Murchison (S)","PHN503","Country WA",1,100
+56230,"Murray (S)","PHN502","Perth South",1,100
+56300,"Nannup (S)","PHN503","Country WA",1,100
+56370,"Narembeen (S)","PHN503","Country WA",1,100
+56460,"Narrogin (S)","PHN503","Country WA",1,100
+56580,"Nedlands (C)","PHN501","Perth North",1,100
+56620,"Ngaanyatjarraku (S)","PHN503","Country WA",1,100
+56730,"Northam (S)","PHN503","Country WA",1,100
+56790,"Northampton (S)","PHN503","Country WA",1,100
+56860,"Nungarin (S)","PHN503","Country WA",1,100
+56930,"Peppermint Grove (S)","PHN501","Perth North",1,100
+57000,"Perenjori (S)","PHN503","Country WA",1,100
+57080,"Perth (C)","PHN501","Perth North",1,100
+57140,"Pingelly (S)","PHN503","Country WA",1,100
+57210,"Plantagenet (S)","PHN503","Country WA",1,100
+57280,"Port Hedland (T)","PHN503","Country WA",1,100
+57350,"Quairading (S)","PHN503","Country WA",1,100
+57420,"Ravensthorpe (S)","PHN503","Country WA",1,100
+57490,"Rockingham (C)","PHN502","Perth South",1,100
+57630,"Sandstone (S)","PHN503","Country WA",1,100
+57700,"Serpentine-Jarrahdale (S)","PHN502","Perth South",1,100
+57770,"Shark Bay (S)","PHN503","Country WA",1,100
+57840,"South Perth (C)","PHN502","Perth South",1,100
+57910,"Stirling (C)","PHN501","Perth North",1,100
+57980,"Subiaco (C)","PHN501","Perth North",1,100
+58050,"Swan (C)","PHN501","Perth North",1,100
+58190,"Tammin (S)","PHN503","Country WA",1,100
+58260,"Three Springs (S)","PHN503","Country WA",1,100
+58330,"Toodyay (S)","PHN503","Country WA",1,100
+58400,"Trayning (S)","PHN503","Country WA",1,100
+58470,"Upper Gascoyne (S)","PHN503","Country WA",1,100
+58510,"Victoria Park (T)","PHN502","Perth South",1,100
+58540,"Victoria Plains (S)","PHN503","Country WA",1,100
+58570,"Vincent (C)","PHN501","Perth North",1,100
+58610,"Wagin (S)","PHN503","Country WA",1,100
+58680,"Wandering (S)","PHN503","Country WA",1,100
+58760,"Wanneroo (C)","PHN501","Perth North",1,100
+58820,"Waroona (S)","PHN502","Perth South",1,100
+58890,"West Arthur (S)","PHN503","Country WA",1,100
+59030,"Westonia (S)","PHN503","Country WA",1,100
+59100,"Wickepin (S)","PHN503","Country WA",1,100
+59170,"Williams (S)","PHN503","Country WA",1,100
+59250,"Wiluna (S)","PHN503","Country WA",1,100
+59310,"Wongan-Ballidu (S)","PHN503","Country WA",1,100
+59320,"Woodanilling (S)","PHN503","Country WA",1,100
+59330,"Wyalkatchem (S)","PHN503","Country WA",1,100
+59340,"Wyndham-East Kimberley (S)","PHN503","Country WA",1,100
+59350,"Yalgoo (S)","PHN503","Country WA",1,100
+59360,"Yilgarn (S)","PHN503","Country WA",1,100
+59370,"York (S)","PHN503","Country WA",1,100
+60210,"Break O'Day (M)","PHN601","Tasmania",1,100
+60410,"Brighton (M)","PHN601","Tasmania",1,100
+60610,"Burnie (C)","PHN601","Tasmania",1,100
+60810,"Central Coast (M) (Tas.)","PHN601","Tasmania",1,100
+61010,"Central Highlands (M) (Tas.)","PHN601","Tasmania",1,100
+61210,"Circular Head (M)","PHN601","Tasmania",1,100
+61410,"Clarence (C)","PHN601","Tasmania",1,100
+61510,"Derwent Valley (M)","PHN601","Tasmania",1,100
+61610,"Devonport (C)","PHN601","Tasmania",1,100
+61810,"Dorset (M)","PHN601","Tasmania",1,100
+62010,"Flinders (M) (Tas.)","PHN601","Tasmania",1,100
+62210,"George Town (M)","PHN601","Tasmania",1,100
+62410,"Glamorgan/Spring Bay (M)","PHN601","Tasmania",1,100
+62610,"Glenorchy (C)","PHN601","Tasmania",1,100
+62810,"Hobart (C)","PHN601","Tasmania",1,100
+63010,"Huon Valley (M)","PHN601","Tasmania",1,100
+63210,"Kentish (M)","PHN601","Tasmania",1,100
+63410,"King Island (M)","PHN601","Tasmania",1,100
+63610,"Kingborough (M)","PHN601","Tasmania",1,100
+63810,"Latrobe (M) (Tas.)","PHN601","Tasmania",1,100
+64010,"Launceston (C)","PHN601","Tasmania",1,100
+64210,"Meander Valley (M)","PHN601","Tasmania",1,100
+64610,"Northern Midlands (M)","PHN601","Tasmania",1,100
+64810,"Sorell (M)","PHN601","Tasmania",1,100
+65010,"Southern Midlands (M)","PHN601","Tasmania",1,100
+65210,"Tasman (M)","PHN601","Tasmania",1,100
+65410,"Waratah/Wynyard (M)","PHN601","Tasmania",1,100
+65610,"West Coast (M)","PHN601","Tasmania",1,100
+65810,"West Tamar (M)","PHN601","Tasmania",1,100
+70200,"Alice Springs (T)","PHN701","Northern Territory",1,100
+70420,"Barkly (R)","PHN701","Northern Territory",1,100
+70540,"Belyuen (S)","PHN701","Northern Territory",1,100
+70620,"Central Desert (R)","PHN701","Northern Territory",1,100
+70700,"Coomalie (S)","PHN701","Northern Territory",1,100
+71000,"Darwin (C)","PHN701","Northern Territory",1,100
+71300,"East Arnhem (R)","PHN701","Northern Territory",1,100
+72200,"Katherine (T)","PHN701","Northern Territory",1,100
+72300,"Litchfield (M)","PHN701","Northern Territory",1,100
+72330,"MacDonnell (R)","PHN701","Northern Territory",1,100
+72800,"Palmerston (C)","PHN701","Northern Territory",1,100
+73600,"Roper Gulf (R)","PHN701","Northern Territory",1,100
+74050,"Tiwi Islands (R)","PHN701","Northern Territory",1,100
+74550,"Victoria Daly (R)","PHN701","Northern Territory",1,100
+74560,"Wagait (S)","PHN701","Northern Territory",1,100
+74660,"West Arnhem (R)","PHN701","Northern Territory",1,100
+74680,"West Daly (R)","PHN701","Northern Territory",1,100
+79399,"Unincorporated NT","PHN701","Northern Territory",1,100
+89399,"Unincorporated ACT","PHN801","Australian Capital Territory",1,100
+99399,"Unincorp. Other Territories","PHN101","Central and Eastern Sydney",0.3899274,38.9927393
+99399,"Unincorp. Other Territories","PHN106","South Eastern NSW",0.0862107,8.6210672
+99399,"Unincorp. Other Territories","PHN502","Perth South",0.5238619,52.3861936

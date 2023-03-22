@@ -1,31 +1,32 @@
-# Estimating effects of physical distancing on the COVID-19 pandemic using an urban mobility index
+# Estimating the effect of mobility reductions on COVID-19 transmission in 41 cities during the first wave of the pandemic using data from a public transit app
 
-Code and data to support "Estimating effects of physical distancing on the COVID-19 pandemic using an urban mobility index" by Soucy et al. The preprint is currently available on [medRxiv](https://www.medrxiv.org/content/10.1101/2020.04.05.20054288v2).
+## Purpose of this repository
 
-# Scripts
+This repository contains code and data to reproduce the analyses presented in the manuscript "Estimating the effect of mobility reductions on COVID-19 transmission in 41 cities during the first wave of the pandemic using data from a public transit app" by Soucy et al., with the exception of tables S1 and S2.
 
-## 1_download-data.R
+**Code and data for the previous version of this manuscript, entitled "Estimating effects of physical distancing on the COVID-19 pandemic using an urban mobility index" and available on [medRxiv](https://www.medrxiv.org/content/10.1101/2020.04.05.20054288v3), may be found [here](https://github.com/jeanpaulrsoucy/covid-19-mobility/tree/2e38f6584e5e31d6c68ee4b765469bb412855c6f).**
 
-This script download mobility data from [Citymapper](https://citymapper.com/cmi) and cumultive case data from many sources. Unless one desires to update the data, there is no reason to run this script. Data are already available in the directory `data`.
+## Requirements
 
-## 2_clean-data.R
+All code is written in the programming language [R](https://www.r-project.org/). The easiest way to run it is to use the [RStudio](https://rstudio.com/) IDE. An `.Rproj` file is included with this repository for ease of use with RStudio. The scripts should run with any modern version of R.
 
-This script processes the downloaded mobility data (`data/cmi`) and cumulative case data (`data/cases`) into two files placed in the main `data` directory: `cmi_clean.csv` and `cases_clean.csv`. Again, there is no reason to run this script unless one desires to update the data. These files are already available in the directory `data`.
+The R packages required to reproduce the tables and figures at listed at the top of their respective scripts. They must be installed using `install.packages` or similar functionality within RStudio prior to running the script.
 
-## 3_analysis.R
+## Reproducing tables and figures
 
-This script runs all of the analyses and produces all of the results and figures used in the manuscript.
+Run `3_analysis.R` to create the output tables and figures.
 
-## theme.R
+There is no reason to run `1_download-data.R` or `2_clean-data.R` unless you wish to refresh the data used in the analysis (which is already available in the `data` directory). Note that rerunning these scripts may cause the analysis script to break if there are changes to the underlying datasets.
 
-This script defines a ggplot theme and colour palette used to generate the figures.
+## Tables
 
-##
+- [Table 1](tab/tab_1.docx)
+- [Table S3](tab/tab_s3.docx)
 
-# Contents
+## Figures
 
-In addition to the scripts contained within the primary directory, this repository contains the following directories:
-
-## data
-
-This folder contains mobility and case data downloaded using `1_download-data.R`, raw case data downloaded manually rather than via the aforementioned script (`data/cases/raw`), and built-in datasets (such as `locations.csv`, which contain additional information about cities includes in the mobility dataset).
+- [Figure 1](fig/fig_1.png)
+- [Figure 2](fig/fig_2.png)
+- [Figure 3](fig/fig_3.png)
+- [Figure S1](fig/fig_s1.png)
+- [Figure S2](fig/fig_s2.png)

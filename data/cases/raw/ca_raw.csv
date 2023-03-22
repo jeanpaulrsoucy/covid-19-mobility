@@ -1,0 +1,245 @@
+"name","region","sub_region_1","date","value","value_daily"
+"cases","BC","Vancouver Coastal","2020-01-29",0,0
+"cases","BC","Vancouver Coastal","2020-01-30",0,0
+"cases","BC","Vancouver Coastal","2020-01-31",0,0
+"cases","BC","Vancouver Coastal","2020-02-01",0,0
+"cases","BC","Vancouver Coastal","2020-02-02",0,0
+"cases","BC","Vancouver Coastal","2020-02-03",0,0
+"cases","BC","Vancouver Coastal","2020-02-04",0,0
+"cases","BC","Vancouver Coastal","2020-02-05",0,0
+"cases","BC","Vancouver Coastal","2020-02-06",1,1
+"cases","BC","Vancouver Coastal","2020-02-07",1,0
+"cases","BC","Vancouver Coastal","2020-02-08",1,0
+"cases","BC","Vancouver Coastal","2020-02-09",1,0
+"cases","BC","Vancouver Coastal","2020-02-10",1,0
+"cases","BC","Vancouver Coastal","2020-02-11",1,0
+"cases","BC","Vancouver Coastal","2020-02-12",1,0
+"cases","BC","Vancouver Coastal","2020-02-13",1,0
+"cases","BC","Vancouver Coastal","2020-02-14",1,0
+"cases","BC","Vancouver Coastal","2020-02-15",1,0
+"cases","BC","Vancouver Coastal","2020-02-16",1,0
+"cases","BC","Vancouver Coastal","2020-02-17",1,0
+"cases","BC","Vancouver Coastal","2020-02-18",1,0
+"cases","BC","Vancouver Coastal","2020-02-19",1,0
+"cases","BC","Vancouver Coastal","2020-02-20",1,0
+"cases","BC","Vancouver Coastal","2020-02-21",1,0
+"cases","BC","Vancouver Coastal","2020-02-22",1,0
+"cases","BC","Vancouver Coastal","2020-02-23",1,0
+"cases","BC","Vancouver Coastal","2020-02-24",1,0
+"cases","BC","Vancouver Coastal","2020-02-25",1,0
+"cases","BC","Vancouver Coastal","2020-02-26",1,0
+"cases","BC","Vancouver Coastal","2020-02-27",1,0
+"cases","BC","Vancouver Coastal","2020-02-28",1,0
+"cases","BC","Vancouver Coastal","2020-02-29",1,0
+"cases","BC","Vancouver Coastal","2020-03-01",1,0
+"cases","BC","Vancouver Coastal","2020-03-02",1,0
+"cases","BC","Vancouver Coastal","2020-03-03",5,4
+"cases","BC","Vancouver Coastal","2020-03-04",5,0
+"cases","BC","Vancouver Coastal","2020-03-05",9,4
+"cases","BC","Vancouver Coastal","2020-03-06",12,3
+"cases","BC","Vancouver Coastal","2020-03-07",13,1
+"cases","BC","Vancouver Coastal","2020-03-08",13,0
+"cases","BC","Vancouver Coastal","2020-03-09",15,2
+"cases","BC","Vancouver Coastal","2020-03-10",19,4
+"cases","BC","Vancouver Coastal","2020-03-11",32,13
+"cases","BC","Vancouver Coastal","2020-03-12",40,8
+"cases","BC","Vancouver Coastal","2020-03-13",54,14
+"cases","BC","Vancouver Coastal","2020-03-14",72,18
+"cases","BC","Vancouver Coastal","2020-03-15",86,14
+"cases","BC","Vancouver Coastal","2020-03-16",112,26
+"cases","BC","Vancouver Coastal","2020-03-17",136,24
+"cases","BC","Vancouver Coastal","2020-03-18",163,27
+"cases","BC","Vancouver Coastal","2020-03-19",192,29
+"cases","BC","Vancouver Coastal","2020-03-20",221,29
+"cases","BC","Vancouver Coastal","2020-03-21",255,34
+"cases","BC","Vancouver Coastal","2020-03-22",276,21
+"cases","BC","Vancouver Coastal","2020-03-23",302,26
+"cases","BC","Vancouver Coastal","2020-03-24",325,23
+"cases","BC","Vancouver Coastal","2020-03-25",370,45
+"cases","BC","Vancouver Coastal","2020-03-26",388,18
+"cases","BC","Vancouver Coastal","2020-03-27",416,28
+"cases","BC","Vancouver Coastal","2020-03-28",439,23
+"cases","BC","Vancouver Coastal","2020-03-29",461,22
+"cases","BC","Vancouver Coastal","2020-03-30",484,23
+"cases","BC","Vancouver Coastal","2020-03-31",501,17
+"cases","BC","Vancouver Coastal","2020-04-01",523,22
+"cases","BC","Vancouver Coastal","2020-04-02",541,18
+"cases","BC","Vancouver Coastal","2020-04-03",554,13
+"cases","BC","Vancouver Coastal","2020-04-04",567,13
+"cases","BC","Vancouver Coastal","2020-04-05",574,7
+"cases","BC","Vancouver Coastal","2020-04-06",599,25
+"cases","BC","Vancouver Coastal","2020-04-07",608,9
+"cases","BC","Vancouver Coastal","2020-04-08",618,10
+"cases","BC","Vancouver Coastal","2020-04-09",624,6
+"cases","BC","Vancouver Coastal","2020-04-10",636,12
+"cases","BC","Vancouver Coastal","2020-04-11",640,4
+"cases","BC","Vancouver Coastal","2020-04-12",642,2
+"cases","ON","Toronto","2020-01-15",0,0
+"cases","ON","Toronto","2020-01-16",0,0
+"cases","ON","Toronto","2020-01-17",0,0
+"cases","ON","Toronto","2020-01-18",0,0
+"cases","ON","Toronto","2020-01-19",0,0
+"cases","ON","Toronto","2020-01-20",0,0
+"cases","ON","Toronto","2020-01-21",0,0
+"cases","ON","Toronto","2020-01-22",0,0
+"cases","ON","Toronto","2020-01-23",2,2
+"cases","ON","Toronto","2020-01-24",2,0
+"cases","ON","Toronto","2020-01-25",2,0
+"cases","ON","Toronto","2020-01-26",2,0
+"cases","ON","Toronto","2020-01-27",2,0
+"cases","ON","Toronto","2020-01-28",2,0
+"cases","ON","Toronto","2020-01-29",2,0
+"cases","ON","Toronto","2020-01-30",2,0
+"cases","ON","Toronto","2020-01-31",2,0
+"cases","ON","Toronto","2020-02-01",2,0
+"cases","ON","Toronto","2020-02-02",2,0
+"cases","ON","Toronto","2020-02-03",2,0
+"cases","ON","Toronto","2020-02-04",2,0
+"cases","ON","Toronto","2020-02-05",2,0
+"cases","ON","Toronto","2020-02-06",2,0
+"cases","ON","Toronto","2020-02-07",2,0
+"cases","ON","Toronto","2020-02-08",2,0
+"cases","ON","Toronto","2020-02-09",2,0
+"cases","ON","Toronto","2020-02-10",2,0
+"cases","ON","Toronto","2020-02-11",2,0
+"cases","ON","Toronto","2020-02-12",2,0
+"cases","ON","Toronto","2020-02-13",2,0
+"cases","ON","Toronto","2020-02-14",2,0
+"cases","ON","Toronto","2020-02-15",2,0
+"cases","ON","Toronto","2020-02-16",2,0
+"cases","ON","Toronto","2020-02-17",2,0
+"cases","ON","Toronto","2020-02-18",2,0
+"cases","ON","Toronto","2020-02-19",2,0
+"cases","ON","Toronto","2020-02-20",2,0
+"cases","ON","Toronto","2020-02-21",3,1
+"cases","ON","Toronto","2020-02-22",3,0
+"cases","ON","Toronto","2020-02-23",3,0
+"cases","ON","Toronto","2020-02-24",3,0
+"cases","ON","Toronto","2020-02-25",4,1
+"cases","ON","Toronto","2020-02-26",5,1
+"cases","ON","Toronto","2020-02-27",6,1
+"cases","ON","Toronto","2020-02-28",7,1
+"cases","ON","Toronto","2020-02-29",8,1
+"cases","ON","Toronto","2020-03-01",10,2
+"cases","ON","Toronto","2020-03-02",10,0
+"cases","ON","Toronto","2020-03-03",11,1
+"cases","ON","Toronto","2020-03-04",12,1
+"cases","ON","Toronto","2020-03-05",14,2
+"cases","ON","Toronto","2020-03-06",16,2
+"cases","ON","Toronto","2020-03-07",18,2
+"cases","ON","Toronto","2020-03-08",22,4
+"cases","ON","Toronto","2020-03-09",24,2
+"cases","ON","Toronto","2020-03-10",28,4
+"cases","ON","Toronto","2020-03-11",38,10
+"cases","ON","Toronto","2020-03-12",62,24
+"cases","ON","Toronto","2020-03-13",75,13
+"cases","ON","Toronto","2020-03-14",83,8
+"cases","ON","Toronto","2020-03-15",98,15
+"cases","ON","Toronto","2020-03-16",117,19
+"cases","ON","Toronto","2020-03-17",135,18
+"cases","ON","Toronto","2020-03-18",163,28
+"cases","ON","Toronto","2020-03-19",198,35
+"cases","ON","Toronto","2020-03-20",234,36
+"cases","ON","Toronto","2020-03-21",248,14
+"cases","ON","Toronto","2020-03-22",281,33
+"cases","ON","Toronto","2020-03-23",322,41
+"cases","ON","Toronto","2020-03-24",364,42
+"cases","ON","Toronto","2020-03-25",396,32
+"cases","ON","Toronto","2020-03-26",505,109
+"cases","ON","Toronto","2020-03-27",605,100
+"cases","ON","Toronto","2020-03-28",646,41
+"cases","ON","Toronto","2020-03-29",684,38
+"cases","ON","Toronto","2020-03-30",756,72
+"cases","ON","Toronto","2020-03-31",842,86
+"cases","ON","Toronto","2020-04-01",935,93
+"cases","ON","Toronto","2020-04-02",1046,111
+"cases","ON","Toronto","2020-04-03",1156,110
+"cases","ON","Toronto","2020-04-04",1276,120
+"cases","ON","Toronto","2020-04-05",1346,70
+"cases","ON","Toronto","2020-04-06",1460,114
+"cases","ON","Toronto","2020-04-07",1651,191
+"cases","ON","Toronto","2020-04-08",1804,153
+"cases","ON","Toronto","2020-04-09",1969,165
+"cases","ON","Toronto","2020-04-10",2096,127
+"cases","ON","Toronto","2020-04-11",2225,129
+"cases","ON","Toronto","2020-04-12",2389,164
+"cases","QC","Montréal","2020-01-24",0,0
+"cases","QC","Montréal","2020-01-25",0,0
+"cases","QC","Montréal","2020-01-26",0,0
+"cases","QC","Montréal","2020-01-27",0,0
+"cases","QC","Montréal","2020-01-28",0,0
+"cases","QC","Montréal","2020-01-29",0,0
+"cases","QC","Montréal","2020-01-30",0,0
+"cases","QC","Montréal","2020-01-31",0,0
+"cases","QC","Montréal","2020-02-01",0,0
+"cases","QC","Montréal","2020-02-02",0,0
+"cases","QC","Montréal","2020-02-03",0,0
+"cases","QC","Montréal","2020-02-04",0,0
+"cases","QC","Montréal","2020-02-05",0,0
+"cases","QC","Montréal","2020-02-06",0,0
+"cases","QC","Montréal","2020-02-07",0,0
+"cases","QC","Montréal","2020-02-08",0,0
+"cases","QC","Montréal","2020-02-09",0,0
+"cases","QC","Montréal","2020-02-10",0,0
+"cases","QC","Montréal","2020-02-11",0,0
+"cases","QC","Montréal","2020-02-12",0,0
+"cases","QC","Montréal","2020-02-13",0,0
+"cases","QC","Montréal","2020-02-14",0,0
+"cases","QC","Montréal","2020-02-15",0,0
+"cases","QC","Montréal","2020-02-16",0,0
+"cases","QC","Montréal","2020-02-17",0,0
+"cases","QC","Montréal","2020-02-18",0,0
+"cases","QC","Montréal","2020-02-19",0,0
+"cases","QC","Montréal","2020-02-20",0,0
+"cases","QC","Montréal","2020-02-21",0,0
+"cases","QC","Montréal","2020-02-22",0,0
+"cases","QC","Montréal","2020-02-23",0,0
+"cases","QC","Montréal","2020-02-24",0,0
+"cases","QC","Montréal","2020-02-25",0,0
+"cases","QC","Montréal","2020-02-26",0,0
+"cases","QC","Montréal","2020-02-27",0,0
+"cases","QC","Montréal","2020-02-28",0,0
+"cases","QC","Montréal","2020-02-29",0,0
+"cases","QC","Montréal","2020-03-01",0,0
+"cases","QC","Montréal","2020-03-02",0,0
+"cases","QC","Montréal","2020-03-03",0,0
+"cases","QC","Montréal","2020-03-04",0,0
+"cases","QC","Montréal","2020-03-05",0,0
+"cases","QC","Montréal","2020-03-06",0,0
+"cases","QC","Montréal","2020-03-07",1,1
+"cases","QC","Montréal","2020-03-08",1,0
+"cases","QC","Montréal","2020-03-09",1,0
+"cases","QC","Montréal","2020-03-10",1,0
+"cases","QC","Montréal","2020-03-11",1,0
+"cases","QC","Montréal","2020-03-12",3,2
+"cases","QC","Montréal","2020-03-13",4,1
+"cases","QC","Montréal","2020-03-14",5,1
+"cases","QC","Montréal","2020-03-15",6,1
+"cases","QC","Montréal","2020-03-16",8,2
+"cases","QC","Montréal","2020-03-17",13,5
+"cases","QC","Montréal","2020-03-18",15,2
+"cases","QC","Montréal","2020-03-19",22,7
+"cases","QC","Montréal","2020-03-20",50,28
+"cases","QC","Montréal","2020-03-21",78,28
+"cases","QC","Montréal","2020-03-22",166,88
+"cases","QC","Montréal","2020-03-23",259,93
+"cases","QC","Montréal","2020-03-24",387,128
+"cases","QC","Montréal","2020-03-25",508,121
+"cases","QC","Montréal","2020-03-26",652,144
+"cases","QC","Montréal","2020-03-27",822,170
+"cases","QC","Montréal","2020-03-28",1105,283
+"cases","QC","Montréal","2020-03-29",1300,195
+"cases","QC","Montréal","2020-03-30",1565,265
+"cases","QC","Montréal","2020-03-31",1861,296
+"cases","QC","Montréal","2020-04-01",2199,338
+"cases","QC","Montréal","2020-04-02",2520,321
+"cases","QC","Montréal","2020-04-03",2895,375
+"cases","QC","Montréal","2020-04-04",3192,297
+"cases","QC","Montréal","2020-04-05",3602,410
+"cases","QC","Montréal","2020-04-06",3861,259
+"cases","QC","Montréal","2020-04-07",4206,345
+"cases","QC","Montréal","2020-04-08",4646,440
+"cases","QC","Montréal","2020-04-09",4976,330
+"cases","QC","Montréal","2020-04-10",5449,473
+"cases","QC","Montréal","2020-04-11",5784,335
+"cases","QC","Montréal","2020-04-12",6071,287
