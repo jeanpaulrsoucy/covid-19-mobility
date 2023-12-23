@@ -1,8 +1,8 @@
-# Estimating the effect of mobility reductions on COVID-19 transmission in 41 cities during the first wave of the pandemic using data from a public transit app
+# Public transit mobility as a leading indicator of COVID-19 transmission in 40 cities during the first wave of the pandemic
 
 ## Purpose of this repository
 
-This repository contains code and data to reproduce the analyses presented in the manuscript "Estimating the effect of mobility reductions on COVID-19 transmission in 41 cities during the first wave of the pandemic using data from a public transit app" by Soucy et al., with the exception of tables S1 and S2.
+This repository contains code and data to reproduce the analyses presented in the manuscript "Public transit mobility as a leading indicator of COVID-19 transmission in 40 cities during the first wave of the pandemic" by Soucy et al., with the exception of tables S1 and S2.
 
 **Code and data for the previous version of this manuscript, entitled "Estimating effects of physical distancing on the COVID-19 pandemic using an urban mobility index" and available on [medRxiv](https://www.medrxiv.org/content/10.1101/2020.04.05.20054288v3), may be found [here](https://github.com/jeanpaulrsoucy/covid-19-mobility/tree/2e38f6584e5e31d6c68ee4b765469bb412855c6f).**
 
@@ -14,14 +14,14 @@ The R packages required to reproduce the tables and figures at listed at the top
 
 ## Reproducing tables and figures
 
-Run `3_analysis.R` to create the output tables and figures.
+Run `3_analysis.R` and `4_extra.R` to create the output tables and figures.
 
 There is no reason to run `1_download-data.R` or `2_clean-data.R` unless you wish to refresh the data used in the analysis (which is already available in the `data` directory). Note that rerunning these scripts may cause the analysis script to break if there are changes to the underlying datasets.
 
 ## Tables
 
-- [Table 1](tab/tab_1.docx)
-- [Table S3](tab/tab_s3.docx)
+- [Table 1](tab/tab_1.csv)
+- [Table S3](tab/tab_s3.csv)
 
 ## Figures
 
@@ -30,3 +30,4 @@ There is no reason to run `1_download-data.R` or `2_clean-data.R` unless you wis
 - [Figure 3](fig/fig_3.png)
 - [Figure S1](fig/fig_s1.png)
 - [Figure S2](fig/fig_s2.png)
+- [Figure S3](fig/fig_s3.png)

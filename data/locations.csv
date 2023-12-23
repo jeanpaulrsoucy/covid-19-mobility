@@ -1,42 +1,42 @@
-city,state,country,continent,google_key,spatial_resolution,google_key_country
-Amsterdam,North Holland,Netherlands,Europe,NL_NH_0363,city,NL
-Barcelona,Cataluña,Spain,Europe,ES_CT_08019,city,ES
-Berlin,Berlin,Germany,Europe,DE_BE,city,DE
-Birmingham,West Midlands,United Kingdom,Europe,GB_ENG_E08000025,city,GB
-Boston,Massachusetts,United States,North America,US_MA_25025,county,US
-Brussels,Brussels,Belgium,Europe,BE_BRU,city,BE
-Chicago,Illinois,United States,North America,US_IL_17031,county,US
-Copenhagen,,Denmark,Europe,DK,country,DK
-Hamburg,Hamburg,Germany,Europe,DE_HH_02000,city,DE
-Hong Kong,Hong Kong,Hong Kong,Asia,HK,city,HK
-Istanbul,,Turkey,Europe,TR,country,TR
-Lisbon,Lisbon Metropolitan Area,Portugal,Europe,PT_17,metro area,PT
-London,London,United Kingdom,Europe,GB_ENG_LON,city,GB
-Los Angeles,Los Angeles,United States,North America,US_CA_06037,county,US
-Lyon,Auvergne-Rhône-Alpes,France,Europe,FR_ARA_69,department,FR
-Madrid,Madrid,Spain,Europe,ES_MD_MAD,city,ES
-Manchester,North West,United Kingdom,Europe,GB_ENG_E08000003,city,GB
-Melbourne,Victoria,Australia,Australia,AU_VIC,state,AU
-Mexico City,Mexico City,Mexico,North America,MX,country,MX
-Milan,Lombardia,Italy,Europe,IT_25_MI,city,IT
-Monaco,,Monaco,Europe,MC,city,MC
-Montréal,Quebec,Canada,North America,CA_QC_2406,city,CA
-Moscow,Moscow,Russia,Europe,RU_MOW,city,RU
-New York City,New York,United States,North America,US_NY_NYC,city,US
-Paris,Île-de-France,France,Europe,FR_IDF_75,city,FR
-Philadelphia,Pennsylvania,United States,North America,US_PA_42101,county,US
-Rhine-Ruhr,North Rhine-Westphalia,Germany,Europe,DE_NW_05111;DE_NW_05112;DE_NW_05113;DE_NW_05116;DE_NW_05119;DE_NW_05124;DE_NW_05162;DE_NW_05314;DE_NW_05315;DE_NW_05316;DE_NW_05513;DE_NW_05911;DE_NW_05913,metro area,DE
-Rome,Lazio,Italy,Europe,IT_62_RM,city,IT
-San Francisco,San Francisco,United States,North America,US_CA_SFO,city,US
-São Paulo,São Paulo,Brazil,South America,BR_SP_355030,city,BR
-Seattle,Washington,United States,North America,US_WA_53033,county,US
-Seoul,Seoul,South Korea,Asia,KR_11,city,KR
-Singapore,,Singapore,Asia,SG,city,SG
-St. Petersburg,St. Petersburg,Russia,Europe,RU_SPE,city,RU
-Stockholm,Stockholm,Sweden,Europe,SE_110,county,SE
-Sydney,New South Wales,Australia,Australia,AU_NSW,state,AU
-Tokyo,Tokyo,Japan,Asia,JP_13,city,JP
-Toronto,Ontario,Canada,North America,CA_ON_3595,city,CA
-Vancouver,British Columbia,Canada,North America,CA_BC_5930,region,CA
-Vienna,Vienna,Austria,Europe,AT_9_900,city,AT
-Washington DC,District of Columbia,United States,North America,US_DC_11001,city,US
+city,state,country,continent,lat,lon,google_key,spatial_resolution,google_key_country
+Amsterdam,North Holland,Netherlands,Europe,52.3730796,4.8924534,NL_NH_0363,city,NL
+Barcelona,Cataluña,Spain,Europe,41.3828939,2.1774322,ES_CT_08019,city,ES
+Berlin,Berlin,Germany,Europe,52.5170365,13.3888599,DE_BE,city,DE
+Birmingham,West Midlands,United Kingdom,Europe,52.4796992,-1.9026911,GB_ENG_E08000025,city,GB
+Boston,Massachusetts,United States,North America,42.3554334,-71.060511,US_MA_25025,county,US
+Brussels,Brussels,Belgium,Europe,50.8465573,4.351697,BE_BRU,city,BE
+Chicago,Illinois,United States,North America,41.8755616,-87.6244212,US_IL_17031,county,US
+Copenhagen,,Denmark,Europe,55.6867243,12.5700724,DK,country,DK
+Hamburg,Hamburg,Germany,Europe,53.550341,10.000654,DE_HH_02000,city,DE
+Hong Kong,Hong Kong,Hong Kong,Asia,22.381131,114.135572,HK,city,HK
+Istanbul,,Turkey,Europe,41.0091982,28.9662187,TR,country,TR
+Lisbon,Lisbon Metropolitan Area,Portugal,Europe,38.7077507,-9.1365919,PT_17,metro area,PT
+London,London,United Kingdom,Europe,51.5073359,-0.12765,GB_ENG_LON,city,GB
+Los Angeles,Los Angeles,United States,North America,34.0536909,-118.242766,US_CA_06037,county,US
+Lyon,Auvergne-Rhône-Alpes,France,Europe,45.7578137,4.8320114,FR_ARA_69,department,FR
+Madrid,Madrid,Spain,Europe,40.4167047,-3.7035825,ES_MD_MAD,city,ES
+Manchester,North West,United Kingdom,Europe,53.4794892,-2.2451148,GB_ENG_E08000003,city,GB
+Melbourne,Victoria,Australia,Australia,-37.8142454,144.9631732,AU_VIC,state,AU
+Mexico City,Mexico City,Mexico,North America,19.4326296,-99.1331785,MX,country,MX
+Milan,Lombardia,Italy,Europe,45.4641943,9.1896346,IT_25_MI,city,IT
+Monaco,,Monaco,Europe,43.7311424,7.4197576,MC,city,MC
+Montréal,Quebec,Canada,North America,45.5031824,-73.5698065,CA_QC_2406,city,CA
+Moscow,Moscow,Russia,Europe,55.7504461,37.6174943,RU_MOW,city,RU
+New York City,New York,United States,North America,40.7127281,-74.0060152,US_NY_NYC,city,US
+Paris,Île-de-France,France,Europe,48.8534951,2.3483915,FR_IDF_75,city,FR
+Philadelphia,Pennsylvania,United States,North America,39.9527237,-75.1635262,US_PA_42101,county,US
+Rhine-Ruhr,North Rhine-Westphalia,Germany,Europe,51.4523694,7.6347828,DE_NW_05111;DE_NW_05112;DE_NW_05113;DE_NW_05116;DE_NW_05119;DE_NW_05124;DE_NW_05162;DE_NW_05314;DE_NW_05315;DE_NW_05316;DE_NW_05513;DE_NW_05911;DE_NW_05913,metro area,DE
+Rome,Lazio,Italy,Europe,41.8933203,12.4829321,IT_62_RM,city,IT
+San Francisco,San Francisco,United States,North America,37.7790262,-122.419906,US_CA_SFO,city,US
+São Paulo,São Paulo,Brazil,South America,-23.5506507,-46.6333824,BR_SP_355030,city,BR
+Seattle,Washington,United States,North America,47.6038321,-122.330062,US_WA_53033,county,US
+Seoul,Seoul,South Korea,Asia,37.5666791,126.9782914,KR_11,city,KR
+Singapore,,Singapore,Asia,1.2899175,103.8519072,SG,city,SG
+St. Petersburg,St. Petersburg,Russia,Europe,59.938732,30.316229,RU_SPE,city,RU
+Stockholm,Stockholm,Sweden,Europe,59.3251172,18.0710935,SE_110,county,SE
+Sydney,New South Wales,Australia,Australia,-33.8698439,151.2082848,AU_NSW,state,AU
+Tokyo,Tokyo,Japan,Asia,35.695126,139.75391,JP_13,city,JP
+Toronto,Ontario,Canada,North America,43.6534817,-79.3839347,CA_ON_3595,city,CA
+Vancouver,British Columbia,Canada,North America,49.2608724,-123.113952,CA_BC_5930,region,CA
+Vienna,Vienna,Austria,Europe,48.2083537,16.3725042,AT_9_900,city,AT
+Washington DC,District of Columbia,United States,North America,38.8950368,-77.0365427,US_DC_11001,city,US
