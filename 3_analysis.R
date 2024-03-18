@@ -150,7 +150,16 @@ p_gr_cmi_2 # view plot
 # save plot
 ggsave("fig/fig_2.png", p_gr_cmi_2, width = 8, height = 5, dpi = 300)
 
-# SUPPLEMENTARY FIGURE 2: MEAN GROWTH RATE VS CMI WITH LAG OF 3 WEEKS #
+# SUPPLEMENTARY FIGURE 2: MEAN GROWTH RATE VS CMI WITH LAG OF 2 WEEKS (alternative) #
+
+# plot
+p_gr_cmi_2_alt <- plot_gr_cmi_2(dat, mod = mod_gr_2, cmi_lag = 2, outcome_weeks = 3:6)
+p_gr_cmi_2_alt # view plot
+
+# save plot
+ggsave("fig/fig_s2.png", p_gr_cmi_2_alt, width = 8, height = 5, dpi = 300)
+
+# SUPPLEMENTARY FIGURE 3: MEAN GROWTH RATE VS CMI WITH LAG OF 3 WEEKS #
 
 # plot
 p_gr_cmi_3 <- plot_gr_cmi(
@@ -163,7 +172,7 @@ p_gr_cmi_3 <- plot_gr_cmi(
 p_gr_cmi_3
 
 # save plot
-ggsave("fig/fig_s2.png", p_gr_cmi_3, width = 8, height = 5, dpi = 300)
+ggsave("fig/fig_s3.png", p_gr_cmi_3, width = 8, height = 5, dpi = 300)
 
 # ANAYLSIS: EFFECTIVE REPRODUCTION NUMBER VS CMI #
 
@@ -234,7 +243,16 @@ p_R_cmi_2 # view plot
 # save plot
 ggsave("fig/fig_3.png", p_R_cmi_2, width = 8, height = 5, dpi = 300)
 
-# SUPPLEMENTARY FIGURE 3: EFFECTIVE REPRODUCTION NUMBER VS CMI WITH LAG OF 3 WEEKS #
+## SUPPLEMENTARY FIGURE 4: EFFECTIVE REPRODUCTION NUMBER VS CMI WITH LAG OF 2 WEEKS (alternative) ##
+
+# plot
+p_R_cmi_2_alt <- plot_R_cmi_2(dat, mod = mod_R_2, cmi_lag = 2, outcome_weeks = 3:6)
+p_R_cmi_2_alt # view plot
+
+# save plot
+ggsave("fig/fig_s4.png", p_R_cmi_2_alt, width = 8, height = 5, dpi = 300)
+
+# SUPPLEMENTARY FIGURE 5: EFFECTIVE REPRODUCTION NUMBER VS CMI WITH LAG OF 3 WEEKS #
 
 # plot
 p_R_cmi_3 <- plot_R_cmi(
@@ -247,7 +265,7 @@ p_R_cmi_3 <- plot_R_cmi(
 p_R_cmi_3
 
 # save plot
-ggsave("fig/fig_s3.png", p_R_cmi_3, width = 8, height = 5, dpi = 300)
+ggsave("fig/fig_s5.png", p_R_cmi_3, width = 8, height = 5, dpi = 300)
 
 # TABLE 1: PRIMARY RESULTS #
 

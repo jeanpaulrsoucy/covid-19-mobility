@@ -15,18 +15,3 @@ theme_mobility <- theme_bw() +
     )),
     plot.caption = element_text(hjust = 0, size = 10)
   )
-
-# palette
-palette_country_groups <-
-  c(
-    "AU" = "#BC0A0A",
-    "CA" = "#008543",
-    "DE" = "#A300DB",
-    "ES" = "#2962FF",
-    "IT" = "#F52DFE",
-    "UK" = "#FFA200",
-    "US" = "#5CC1FE",
-    "Asia" = "#CA98FD",
-    "Europe (other)" = "#61D800",
-    "Latin America" = "#FFF200"
-  )

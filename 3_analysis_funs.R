@@ -189,7 +189,7 @@ process_case_cmi_data <- function(cases, cases_country, cmi) {
   # define country groups for plotting
   dat <- dat %>%
     mutate(
-      colour_groups = factor(
+      country_groups = factor(
         case_when(
           country == "United Kingdom" ~ "UK",
           country == "United States" ~ "US",
@@ -200,10 +200,32 @@ process_case_cmi_data <- function(cases, cases_country, cmi) {
           country == "Spain" ~ "ES",
           country %in% c("Mexico", "Brazil") ~ "Latin America",
           continent == "Asia" ~ "Asia",
-          TRUE ~ "Europe (other)"
+          continent == "Europe" ~ "Europe (other)"
         ),
         levels = c("AU", "CA", "DE", "ES", "IT", "UK", "US", "Asia", "Europe (other)", "Latin America")
-      ))
+      ),
+      country_groups_2 = factor(
+        case_when(
+          country == "United Kingdom" ~ "United Kingdom",
+          country == "United States" ~ "United States",
+          country == "Australia" ~ "Australia",
+          country == "Canada" ~ "Canada",
+          country == "Germany" ~ "Germany",
+          country == "Italy" ~ "Italy",
+          country == "Spain" ~ "Spain",
+          country %in% c("Mexico", "Brazil") ~ "Latin America",
+          continent == "Asia" ~ "Asia",
+          continent == "Europe" ~ "Europe (other)"
+        ),
+        )
+    )
+  
+  # check country groups were assigned correctly
+  if (sum(is.na(dat$country_groups)) > 0) stop("Some countries were not assigned to a country group")
+  if (sum(is.na(dat$country_groups_2)) > 0) stop("Some countries were not assigned to a country group")
+  
+  # return data
+  dat
 }
 
 # process physical distancing data
@@ -258,25 +280,20 @@ process_pdist_data <- function(pdist, cmi) {
 
 # plot: CMI before and after physical distancing measures announced
 plot_cmi_pdist <- function(pdist) {
-  ggplot(pdist, aes(x = date, y = cmi, group = city, color = continent)) +
-    geom_line(data = filter(pdist, pdist == "Before"), linetype = "solid", alpha = 0.35, linewidth = 0.8) +
-    geom_line(data = filter(pdist, pdist == "After"), linetype = "dashed", alpha = 0.35, linewidth = 0.8) +
+  ggplot(pdist, aes(x = date, y = cmi, group = city)) +
+    geom_line(data = filter(pdist, pdist == "Before"), linetype = "solid", alpha = 0.5, linewidth = 0.6) +
+    geom_line(data = filter(pdist, pdist == "After"), linetype = "dashed", alpha = 0.5, linewidth = 0.6) +
     # hack to make linetype aes show up in legend
     geom_line(data = filter(pdist, city == "Toronto") %>% group_by(pdist) %>% top_n(2, date), aes(group = pdist, linetype = pdist), alpha = 0) +
     scale_x_date(breaks = pretty_breaks()) +
     scale_linetype_manual(values = c("Before" = "solid", "After" = "dashed"), guide = guide_legend(
-      title.position = "top", override.aes = list(alpha = 1))) +
-    scale_color_manual(values = c(
-      "Americas" = "#A000FF", "Asia" = "red", "Australia" = "#FF9400","Europe" = "#659EC7"),
-      guide = guide_legend(
-        title.position = "top", override.aes = list(linetype = "solid"))) +
-    labs(x = "Date", y = "Mobility index (%)", colour = "Continent", linetype = "Gov't intervention") +
+      title.position = "left", override.aes = list(alpha = 1))) +
+    facet_wrap(~ continent, ncol = 2) +
+    labs(x = "Date", y = "Mobility index (%)", linetype = "Intervention announced") +
     theme_mobility +
     theme(
-      legend.position = c(0.74, 0.87),
-      legend.background = element_blank(),
-      legend.box = "horizontal",
-      legend.box.background = element_rect(colour = "black"),
+      legend.position = "bottom",
+      legend.direction = "horizontal",
       axis.text.x = element_text(angle = 45, hjust = 1)
     )
 }
@@ -286,7 +303,7 @@ dat_gr <- function(dat, cmi_lag, outcome_weeks = c(3, 4, 5, 6)) {
   d <- vector(mode = "list", length = length(outcome_weeks))
   for (week in outcome_weeks) {
     dd <- dat %>%
-      select(city, country, colour_groups,
+      select(city, country, continent, country_groups, country_groups_2,
              matches(paste0("^weekly_gr_", week)),
              matches(paste0("^log_weekly_gr_", week)),
              matches(paste0("mean_cmi_", week - cmi_lag)),
@@ -296,7 +313,8 @@ dat_gr <- function(dat, cmi_lag, outcome_weeks = c(3, 4, 5, 6)) {
         week_gr = paste("Week", week),
         week_cmi = paste("Week", week - cmi_lag)
       )
-    names(dd) <- c("city", "country", "colour_groups", "weekly_gr", "log_weekly_gr", "mean_cmi", "days_since_100", "week_gr", "week_cmi")
+    names(dd) <- c("city", "country", "continent", "country_groups", "country_groups_2",
+                   "weekly_gr", "log_weekly_gr", "mean_cmi", "days_since_100", "week_gr", "week_cmi")
     d[[match(week, outcome_weeks)]] <- dd
   }
   bind_rows(d)
@@ -343,8 +361,7 @@ plot_gr_cmi <- function(
     x_labs = c(0, 25, 50, 75, 100),
     x_lims = c(0, 120),
     x_pred = "[0:120 by = 1]",
-    x_labs_size = NULL,
-    facet_by_week = TRUE) {
+    x_labs_size = NULL) {
   # match args
   if (!cmi_lag %in% c(2, 3)) stop("cmi_lag must be 2 or 3.")
   # create dataset
@@ -361,27 +378,22 @@ plot_gr_cmi <- function(
   # plot
   plot_gr_cmi <- plot(pred_mod) +
     geom_point(
-      data = d, aes(x = mean_cmi, y = weekly_gr, colour = colour_groups), size = 2) +
+      data = d, aes(x = mean_cmi, y = weekly_gr, colour = country_groups), size = 1.75) +
     labs(x = paste0("Mean mobility index ", ifelse(cmi_lag == 2, "two", "three"), " weeks prior (%)"),
          y = "Weekly COVID-19 case ratio",
          title = NULL,
          colour = NULL) +
     scale_x_continuous(breaks = x_breaks, limits = x_lims, labels = x_labs) +
     scale_y_continuous(breaks = pretty_breaks()) +
-    scale_color_manual(values = palette_country_groups) +
+    scale_color_brewer(palette = "Paired") +
     theme_mobility +
-    guides(
-      # no shading or border in legend
-      color = guide_legend(nrow = 2, override.aes = list(fill = NA, linetype = 0))
-    ) +
+    guides(color = guide_legend(nrow = 2, override.aes = list(fill = NA, linetype = 0))) + # no shading or border in legend
     theme(
       legend.background = element_blank(),
       legend.box.background = element_rect(colour = "black"),
       legend.position = "bottom"
-    )
-  # facet by week
-  if (facet_by_week) {
-    plot_gr_cmi <- plot_gr_cmi + facet_wrap(~week_gr, ncol = 4, labeller = as_labeller(
+    ) +
+    facet_wrap(~week_gr, ncol = 4, labeller = as_labeller(
       c(
         "Week 3" = "Week beginning March 16",
         "Week 4" = "Week beginning March 23",
@@ -389,7 +401,64 @@ plot_gr_cmi <- function(
         "Week 6" = "Week beginning April 6"
       )
     ))
+  # override x-axis label size
+  if (!is.null(x_labs_size)) {
+    plot_gr_cmi <- plot_gr_cmi + theme(
+      axis.text.x = element_text(size = x_labs_size)
+    )
   }
+  # return plot
+  plot_gr_cmi
+}
+
+# plot: mean growth rate vs CMI (alternative format)
+plot_gr_cmi_2 <- function(
+    dat, mod, cmi_lag, outcome_weeks,
+    x_breaks = c(0, 25, 50, 75, 100),
+    x_labs = c(0, 25, 50, 75, 100),
+    x_lims = c(0, 120),
+    x_pred = "[0:120 by = 1]",
+    x_labs_size = NULL) {
+  # match args
+  if (!cmi_lag %in% c(2, 3)) stop("cmi_lag must be 2 or 3.")
+  # create dataset
+  d <- dat_gr(dat, cmi_lag, outcome_weeks)
+  # remove missing data
+  d <- d[complete.cases(d), ]
+  # predicted values for fixed effect of CMI
+  pred_mod <- ggpredict(
+    mod, paste("mean_cmi", x_pred), type = "fe",
+    allow.new.levels = TRUE) # suppress false warning
+  pred_mod$predicted <- exp(pred_mod$predicted)
+  pred_mod$conf.low <- exp(pred_mod$conf.low)
+  pred_mod$conf.high <- exp(pred_mod$conf.high)
+  # plot
+  plot_gr_cmi <- plot(pred_mod) +
+    geom_point(
+      data = d, aes(x = mean_cmi, y = weekly_gr, shape = week_gr), size = 1.75, alpha = 0.8) +
+    geom_path(
+      data = d, aes(x = mean_cmi, y = weekly_gr, group = city), alpha = 0.5) +
+    labs(x = paste0("Mean mobility index ", ifelse(cmi_lag == 2, "two", "three"), " weeks prior (%)"),
+         y = "Weekly COVID-19 case ratio",
+         title = NULL,
+         colour = NULL) +
+    scale_x_continuous(breaks = x_breaks, limits = x_lims, labels = x_labs) +
+    scale_y_continuous(breaks = pretty_breaks()) +
+    scale_shape_discrete(labels = as_labeller(
+      c(
+        "Week 3" = "March 16",
+        "Week 4" = "March 23",
+        "Week 5" = "March 30",
+        "Week 6" = "April 6"
+      ))) +
+    theme_mobility +
+    guides(shape = guide_legend(title = "Week beginning", nrow = 1)) +
+    theme(
+      legend.background = element_blank(),
+      legend.box.background = element_rect(colour = "black"),
+      legend.position = "bottom"
+    ) +
+    facet_wrap(~country_groups_2, nrow = 2)
   # override x-axis label size
   if (!is.null(x_labs_size)) {
     plot_gr_cmi <- plot_gr_cmi + theme(
@@ -408,7 +477,7 @@ dat_R <- function(dat, cmi_lag, outcome_weeks) {
   for (week in outcome_weeks) {
     
     dd <- dat %>%
-      select(city, country, colour_groups,
+      select(city, country, continent, country_groups, country_groups_2,
              matches(paste0("R_week_", week)),
              matches(paste0("mean_cmi_", week - cmi_lag)),
              matches(paste0("days_since_100_", week))
@@ -417,7 +486,8 @@ dat_R <- function(dat, cmi_lag, outcome_weeks) {
         week_R = paste("Week", week),
         week_cmi = paste("Week", week - cmi_lag)
       )
-    names(dd) <- c("city", "country", "colour_groups", "R", "mean_cmi", "days_since_100", "week_R", "week_cmi")
+    names(dd) <- c("city", "country", "continent", "country_groups", "country_groups_2",
+                   "R", "mean_cmi", "days_since_100", "week_R", "week_cmi")
     d[[match(week, outcome_weeks)]] <- dd
     
   }
@@ -475,19 +545,17 @@ plot_R_cmi <- function(
   plot_R_cmi <- plot(pred_mod) +
     geom_point(data = d, aes(x = mean_cmi,
                              y = R,
-                             colour = colour_groups),
-               size = 2) +
+                             colour = country_groups),
+               size = 1.75) +
     labs(x = paste0("Mean mobility index ", ifelse(cmi_lag == 2, "two", "three"), " weeks prior (%)"),
          y = expression(paste("Weekly COVID-19 ", italic(R[t]))),
          title = NULL,
          colour = NULL) +
     scale_x_continuous(breaks = x_breaks, limits = x_lims, labels = x_labs) +
     scale_y_continuous(breaks = pretty_breaks()) +
-    scale_color_manual(values = palette_country_groups) +
+    scale_color_brewer(palette = "Paired") +
     theme_mobility +
-    guides(
-      color = guide_legend(nrow = 2, override.aes = list(fill = NA, linetype = 0)) # no shading or border in legend
-    ) +
+    guides(color = guide_legend(nrow = 2, override.aes = list(fill = NA, linetype = 0))) + # no shading or border in legend
     theme(
       legend.background = element_blank(),
       legend.box.background = element_rect(colour = "black"),
@@ -501,6 +569,59 @@ plot_R_cmi <- function(
         "Week 6" = "Week starting April 6"
       )
     ))
+  # override x-axis label size
+  if (!is.null(x_labs_size)) {
+    plot_R_cmi <- plot_R_cmi + theme(
+      axis.text.x = element_text(size = x_labs_size)
+    )
+  }
+  # return plot
+  plot_R_cmi
+}
+
+# plot: effective reproduction number vs cmi with lag of 2 weeks (alternative format)
+plot_R_cmi_2 <- function(
+    dat, mod, cmi_lag, outcome_weeks = c(3, 4, 5, 6),
+    x_breaks = c(0, 25, 50, 75, 100),
+    x_labs = c(0, 25, 50, 75, 100),
+    x_lims = c(0, 120),
+    x_pred = "[0:120 by = 1]",
+    x_labs_size = NULL) {
+  # match args
+  if (!cmi_lag %in% c(2, 3)) stop("cmi_lag must be 2 or 3.")
+  # create dataset
+  d <- dat_R(dat, cmi_lag, outcome_weeks)
+  # predicted values for fixed effect of CMI
+  pred_mod <- ggpredict(
+    mod, paste("mean_cmi", x_pred), type = "fe",
+    allow.new.levels = TRUE) # suppress false warning
+  # plot
+  plot_R_cmi <- plot(pred_mod) +
+    geom_point(
+      data = d, aes(x = mean_cmi, y = R, shape = week_R), size = 1.75, alpha = 0.8) +
+    geom_path(
+      data = d, aes(x = mean_cmi, y = R, group = city), alpha = 0.5) +
+    labs(x = paste0("Mean mobility index ", ifelse(cmi_lag == 2, "two", "three"), " weeks prior (%)"),
+         y = expression(paste("Weekly COVID-19 ", italic(R[t]))),
+         title = NULL,
+         colour = NULL) +
+    scale_x_continuous(breaks = x_breaks, limits = x_lims, labels = x_labs) +
+    scale_y_continuous(breaks = pretty_breaks()) +
+    scale_shape_discrete(labels = as_labeller(
+      c(
+        "Week 3" = "March 16",
+        "Week 4" = "March 23",
+        "Week 5" = "March 30",
+        "Week 6" = "April 6"
+      ))) +
+    theme_mobility +
+    guides(shape = guide_legend(title = "Week beginning", nrow = 1)) +
+    theme(
+      legend.background = element_blank(),
+      legend.box.background = element_rect(colour = "black"),
+      legend.position = "bottom"
+    ) +
+    facet_wrap(~country_groups_2, nrow = 2)
   # override x-axis label size
   if (!is.null(x_labs_size)) {
     plot_R_cmi <- plot_R_cmi + theme(
