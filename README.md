@@ -2,7 +2,7 @@
 
 ## Purpose of this repository
 
-This repository contains code and data to reproduce the analyses presented in the manuscript "Public transit mobility as a leading indicator of COVID-19 transmission in 40 cities during the first wave of the pandemic" by Soucy et al., with the exception of tables S1 and S2.
+This repository contains code and data to reproduce the analyses presented in the manuscript "[Public transit mobility as a leading indicator of COVID-19 transmission in 40 cities during the first wave of the pandemic](https://doi.org/10.7717/peerj.17455)" by Soucy et al. (doi: [10.7717/peerj.17455](https://doi.org/10.7717/peerj.17455)). This includes every table and figure with the exception of tables S1 and S2. This repository has also been mirrored on [Zenodo](https://zenodo.org/doi/10.5281/zenodo.11062750).
 
 **Code and data for the previous version of this manuscript, entitled "Estimating effects of physical distancing on the COVID-19 pandemic using an urban mobility index" and available on [medRxiv](https://www.medrxiv.org/content/10.1101/2020.04.05.20054288v3), may be found [here](https://github.com/jeanpaulrsoucy/covid-19-mobility/tree/2e38f6584e5e31d6c68ee4b765469bb412855c6f).**
 
